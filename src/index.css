@@ -1,0 +1,547 @@
+/*# sourceMappingURL=main.css.map */
+.footer-wrapper {
+    background: rgb(55, 19, 91);
+    padding: 0 20px;
+    padding-bottom: 30px;
+  }
+  
+  .alphbed-numbers-list {
+    width: 100%;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    background: rgb(55, 19, 91);
+  }
+  
+  .alphbed-numbers-list {
+    -ms-flex-direction: column;
+    flex-direction: column
+  }
+  
+  
+  .alphbed-numbers-list .right-area-lable ul {
+    position: relative;
+    left: -16px;
+    row-gap: 16px;
+    left: 0;
+  }
+  
+  .alphbed-numbers-list .right-area-lable ul li a {
+    border-left: 0;
+    border-right: 1px solid #fff;
+    width: auto;
+  }
+  
+  /* .alphbed-numbers-list .right-area-lable ul li:last-child a {
+    padding-right: 0;
+    width: auto;
+    border-right: 0;
+    padding-left: 16px
+  } */
+  
+  .alphbed-numbers-list {
+    -ms-flex-direction: column;
+    flex-direction: column
+  }
+  
+  .alphbed-numbers-list .left-area-lable {
+    padding-bottom: 0px;
+  }
+  
+  .button-wrapper .left-area-lable span {
+    
+    font-size: 25px;
+    color: #fff;
+    font-weight: 600;
+    line-height: 19.2px;
+    color: #43165c;
+  
+  }
+  
+  .left-area-lable span {
+    font-size: 16px;
+    color: #fff;
+    font-weight: 600;
+    line-height: 19.2px
+  }
+  
+  .right-area-lable ul {
+    display: -ms-flexbox;
+    display: flex;
+    margin: 0;
+    gap: 5px;
+    padding: 20px 0;
+    align-items: center;
+  }
+  
+  .right-area-lable ul li {
+    margin: 0 0 6px;
+    list-style: none;
+  }
+  
+  .right-area-lable ul a {
+    color: #000;
+    font-size: 16px;
+    line-height: 21px;
+    font-weight: 400;
+    width: 37.62px;
+    height: 19px;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -ms-flex-align: center;
+    align-items: center;
+    border-right: 1px solid #fff;
+    padding: 0 5px;
+    text-decoration: none;
+  }
+  
+  .right-area-lable ul a:hover {
+    color: #7132b0
+  }
+  
+  
+  
+  @media (min-width:1279px) {
+    .right-area-lable ul li:first-child a {
+      border-left: 0
+    }
+  }
+  
+  @media (max-width:370px) {
+    .alphbed-numbers-list .right-area-lable ul li a {
+      border-color: #c6c6c6;
+      width: 28.23px
+    }
+  
+    .alphbed-numbers-list .right-area-lable ul {
+      left: -10px
+    }
+  
+  }
+  .button-wrapper .right-area-lable ul{
+    flex-wrap: wrap;
+  }
+  .button-wrapper .right-area-lable ul li a {
+    width: auto;
+    border-radius: 25px;
+    border: 1px solid #fff;
+    border: 1px solid hsla(0, 0%, 42%, .5);
+    background: #fff;
+    color: #43165c;
+    font-size: 15px;
+    min-width: 130px;
+    padding: 15px 0;
+  }
+  
+  .button-wrapper .alphbed-numbers-list,
+  .button-wrapper .footer-wrapper {
+    background: #f5f5f5;
+  }
+  
+  .city-detail h2{
+    background-image: url(https://img.traveltriangle.com/apac/attachments/pictures/843471/original/himachal-family-tour-packages-g.jpg?tr=w-1366,h-305);
+    height: 300px;
+    display: flex
+  ;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+  }
+  .button-wrapper .footer-wrapper{
+    margin: 0;
+  }
+  .button-wrapper .right-area-lable ul li a:hover{
+    background: #5a298b;
+    border-color: #5a298b;
+    color: #fff;
+  }
+  .button-wrapper .card-two-line{
+    background: none;
+  }
+  
+  .table-width .city-cell a{
+    text-decoration: none;
+      color: black;
+      font-weight: 400;
+  }
+  
+  .content-wrapper{
+    padding: 0 20px;
+  }
+  .content-wrapper h1{
+    font-size: 48px;
+    font-weight: 900;
+  }
+  .card-title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .price-wrapper p{
+    color: #4caf50;
+      line-height: 28px;
+      font-size: 24px;
+      font-weight: 700;
+      margin: 0;
+  }
+  .price-wrapper .old-price{
+  
+    text-decoration: line-through;
+    font-size: 14px;
+      line-height: 16px;
+      color: #3e3e3e;
+      vertical-align: baseline;
+  }
+  
+  .price-wrapper .discount{
+    font-size: 14px;
+      line-height: 16px;
+      color: #fff;
+      padding: 2px 8px;
+      background-color: #20a397 !important;
+      border-radius: 20px;
+  }
+  .price-wrapper .start{
+    margin-right: 24px;
+    color: #b2b2b2;
+    font-size: 12px;
+    line-height: 16px;
+  }
+  
+  .price-wrapper .span-wrapper{
+    padding-bottom: 8px;
+  }
+  
+  .hotel-star p{
+    font-size: 12px;
+      line-height: 16px;
+      font-weight: 700;
+      margin: 0;
+      color: #3e3e3e;
+      padding-bottom: 4px;
+      margin: 0;
+  }
+  
+  .hotel-star label{
+    font-size: 18px;
+    line-height: 18px;
+    color: #3e3e3e;
+    padding-left: 8px;
+    margin-bottom: 16px;
+    font-weight: 500;
+  }
+  
+  .price-wrapper .per-person{
+    margin: 0;
+    color: #b2b2b2;
+    font-size: 12px;
+    line-height: 16px;
+  }
+  
+  .hotel-star{
+    padding-top: 8px;
+  }
+  
+  .compare{
+    display: flex;
+        justify-content: end;
+        align-items: center;
+        color: #20a397 !important;
+  }
+  .compare label{
+    padding-right: 8px;
+  }
+  .card-wrapper{
+    /* max-width: 900px; */
+    width: 75%;
+    padding: 8px;
+    border: 1px solid #d4d4d4;
+    margin: 0 auto;
+    margin-bottom: 10px;
+  }
+  
+  .card-wrapper img{
+    width: 100%;
+    height: 100%;
+  }
+  
+  .card-title h3 {
+    /* display: flex;
+    justify-content: space-between;
+    align-items: center; */
+    font-size: 18px;
+  }
+  
+  .btn-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .btn-book{
+    padding: 12px 25px;
+      background-color: #fe5246;
+      border: 0;
+      color: #fff;
+      font-size: 14px;
+      line-height: 16px;
+  }
+  .button-wrapper .right-area-lable ul li{
+    padding: 0 5px;
+  }
+  
+  .footer-wrapper{
+    margin-bottom: 50px;
+  }
+  
+  .scroll-container-two-line {
+    display: flex;
+    flex-wrap: wrap;
+    overflow-x: auto;
+    gap: 1rem;
+    scroll-behavior: smooth;
+    cursor: grab;
+  
+    /* Hide scrollbar */
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+  .scroll-container-two-line::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .card-two-line {
+    /* min-width: 200px;
+    height: 150px; */
+    flex: 0 0 auto;
+    background-color: #eee;
+    border-radius: 8px;
+    padding: 5px;
+    box-sizing: border-box;
+    user-select: none;
+    min-width: 100px;
+  }
+  .accordion-body{
+    border-radius: 20px;
+  }
+  .city-wrapper{
+    display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+      width: 100%;
+  }
+  .city-cell{
+    min-width: 100%;
+    width: 100%;
+  }
+  .city-cell a{
+    text-decoration: none;
+    color: #000;
+  }
+  .city-cell .accord{
+    cursor: pointer;
+      font-weight: bold;
+      margin: 40px 0px 8px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+  }
+  .accord-wrap{
+    border-bottom: 1px solid #e0e0e0;
+  }
+  .accord .icon{
+    width: 48px;
+    height: 48px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .accord .icon img{
+    width: 50%;
+  }
+  .city-cell .accord h2{
+    font-size: 32px;
+    font-weight: 900;
+    margin: 0;
+    border-radius: 20px;
+    transition: box-shadow 0.3s ease;
+    display: flex;
+    justify-content: space-between;
+   
+  }
+  .city-cell .accord span img{
+    width:24px;
+    height:24px;
+  }
+  .city-cell .accord h2:hover {
+    /* box-shadow: 0px 5px 9px rgba(0, 123, 255, 0.5); */
+    cursor: pointer;
+  }
+  .accordian-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .tour-packages h3, .family-packages h3{
+    font-size: 24px;
+    margin-bottom: 14px;
+    color: #000;
+    display: inline-block;
+    border-radius: 20px;
+    opacity: 0.65;
+    font-weight: 700;
+  }
+  .tour-packages h4, .family-packages h4{
+    font-size: 15px;
+  }
+  .accordion-body a{
+    padding: 9px 20px;
+    background-color: #fe5246;
+    border: 0;
+    color: #fff;
+    border-radius: 8px;
+  }
+  
+  /* .all-tour-packages, .all-family-packages{
+    display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 8px;
+  } */
+  .all-tour-packages h4, .all-family-packages h4{
+    color: #0f3cc9;
+    font-size: 16px;
+    height: 24px;
+    min-width: 280px;
+    cursor: pointer;
+    margin-bottom: 8px;
+  }
+  .all-tour-packages h4:hover, .all-family-packages h4:hover{
+    color: #0f3cc9;
+    text-decoration: underline;
+  }
+  .btn-show{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    width: 100%;
+  }
+  .btn-show button{
+    padding: 2px 11px;
+      background-color: #fe5246;
+      border: 0;
+      color: #fff;
+      border-radius: 12px;
+      font-size: 13px;
+  }
+  .btn-show{
+    display: none;
+  }
+  .pc-btn{
+    display: flex;
+        justify-content: space-between;
+        align-items: center;
+  }
+  .pc-btn button{
+    padding: 3px 16px;
+    background-color: #fe5246;
+    border: 0;
+    color: #fff;
+    border-radius: 18px;
+    font-size: 13px;
+    display: inline-flex;
+    align-items: center;
+  }
+  
+  /* Applies only to screens 600px wide or less */
+  @media (max-width: 600px) {
+    .title-wrapper .title{
+      padding: 10px 5px 5px;
+      margin: 0;
+      background: #f5f5f5;
+      width: 100%;
+    }
+    .title-wrapper img{
+      max-width: 600px;
+      width: 100%;
+    }
+    .sub-title-wrapper{
+      padding: 0 5px;
+    }
+    
+   .right-area-lable ul{
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+     padding: 0;
+     margin-bottom: 10px;
+   }
+   .alphbed-numbers-list .right-area-lable ul li a {
+    width: auto;
+  }
+  .footer-wrapper {
+    padding: 0 10px;
+  }
+  .alphbed-numbers-list .right-area-lable ul{
+    position: static;
+  }
+  .button-wrapper .right-area-lable ul li{
+    padding: 0;
+  }
+  .button-wrapper .right-area-lable ul li a{
+    min-width: 114px;
+  }
+  .button-wrapper .right-area-lable ul{
+    column-gap: 3px;
+  }
+  .alphbed-numbers-list .left-area-lable{
+    padding: 14px 0;
+  }
+  .content-wrapper{
+    padding: 0 5px;
+  }
+  .card-wrapper img {
+    width: 100%;
+    max-height: 250px;
+  }
+  .city-detail h2 {
+    background-image: url(https://img.traveltriangle.com/apac/attachments/pictures/843471/original/himachal-family-tour-packages-g.jpg?tr=w-1366,h-305);
+    max-height: 180px;
+    
+  }
+  .table-width .city-cell a{
+    font-size: 13px;
+  }
+  .all-tour-packages, .all-family-packages {
+    justify-content: center !important;
+  }
+ .card-wrapper{
+    width: 100% !important;
+  }
+  .city-cell{
+    min-width: 48% !important;
+    max-width: 100% !important;
+  }
+  .city-cell .accord h2{
+    font-size: 21px;
+  }
+  .btn-show{
+    display: block;
+  }
+  .accordian-wrapper{
+    flex-wrap: wrap;
+  }
+  .all-tour-packages h4, .all-family-packages h4 {
+    min-height: 100%;
+  }
+  .col-md-3{
+    width: 100% !important;
+  }
+  
+}

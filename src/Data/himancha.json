@@ -1,0 +1,3287 @@
+
+
+{
+
+    "data": {
+      "total_entries": 556,
+      "rating": 4.2,
+      "reviews": 6420,
+      "rich_text": "Himachal Holiday Packages",
+      "package_starting_price": 999,
+      "banner_image": {
+        "pic_id": 843467,
+        "pic_url": "https://img.traveltriangle.com/apac/attachments/pictures/843467/original/Himachal-tour-packages-s.jpg?tr=,w_1395,h_305",
+        "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/843467/original/Himachal-tour-packages-s.jpg",
+        "alt_text": "Get set for some fun moments on your trip to Himachal",
+        "caption_text": ""
+      },
+      "alternate_plp_urls": [],
+      "destination_type": "Domestic",
+      "filter_cities": [
+        {
+          "id": 20922,
+          "name": "Srinagar"
+        },
+        {
+          "id": 20944,
+          "name": "Leh"
+        },
+        {
+          "id": 20945,
+          "name": "Kargil"
+        },
+        {
+          "id": 20985,
+          "name": "Dalhousie"
+        },
+        {
+          "id": 20991,
+          "name": "Dharamsala"
+        },
+        {
+          "id": 20994,
+          "name": "Kangra"
+        },
+        {
+          "id": 20999,
+          "name": "Manali"
+        },
+        {
+          "id": 21000,
+          "name": "Kullu"
+        },
+        {
+          "id": 21024,
+          "name": "Kasauli"
+        },
+        {
+          "id": 21025,
+          "name": "Parwanoo"
+        },
+        {
+          "id": 21030,
+          "name": "Nahan"
+        },
+        {
+          "id": 21033,
+          "name": "Narkanda"
+        },
+        {
+          "id": 21036,
+          "name": "Shimla"
+        },
+        {
+          "id": 21062,
+          "name": "Amritsar"
+        },
+        {
+          "id": 21199,
+          "name": "Chandigarh"
+        },
+        {
+          "id": 21214,
+          "name": "Chamba"
+        },
+        {
+          "id": 21221,
+          "name": "Mussoorie"
+        },
+        {
+          "id": 22175,
+          "name": "Chail"
+        },
+        {
+          "id": 26216,
+          "name": "New Delhi"
+        },
+        {
+          "id": 26322,
+          "name": "Mcleodganj"
+        },
+        {
+          "id": 26343,
+          "name": "sarchu"
+        },
+        {
+          "id": 26399,
+          "name": "Dharamshala"
+        },
+        {
+          "id": 26431,
+          "name": "Sonmarg"
+        },
+        {
+          "id": 26456,
+          "name": "Kalpa"
+        },
+        {
+          "id": 26465,
+          "name": "Nako"
+        },
+        {
+          "id": 26469,
+          "name": "Nubra Valley"
+        },
+        {
+          "id": 26471,
+          "name": "Pangong"
+        },
+        {
+          "id": 26472,
+          "name": "Tsomoriri"
+        },
+        {
+          "id": 26759,
+          "name": "Sangla"
+        },
+        {
+          "id": 26778,
+          "name": "himachal"
+        },
+        {
+          "id": 26791,
+          "name": "Auli"
+        },
+        {
+          "id": 27007,
+          "name": "Khajjiar"
+        },
+        {
+          "id": 30518,
+          "name": "Kaza"
+        },
+        {
+          "id": 30996,
+          "name": "Jispa"
+        },
+        {
+          "id": 31002,
+          "name": "Tabo"
+        },
+        {
+          "id": 32096,
+          "name": "Sarahan"
+        },
+        {
+          "id": 32195,
+          "name": "Kasol"
+        },
+        {
+          "id": 72951,
+          "name": "Chitkul"
+        },
+        {
+          "id": 72960,
+          "name": "Chandra Tal"
+        },
+        {
+          "id": 73061,
+          "name": "Kufri"
+        },
+        {
+          "id": 73112,
+          "name": "Tirthan Valley"
+        },
+        {
+          "id": 73130,
+          "name": "Kheerganga"
+        },
+        {
+          "id": 73131,
+          "name": "Malana "
+        },
+        {
+          "id": 73133,
+          "name": "Bir Billing "
+        },
+        {
+          "id": 73244,
+          "name": "Tosh"
+        },
+        {
+          "id": 73463,
+          "name": "Jibhi"
+        },
+        {
+          "id": 73544,
+          "name": "Hanle"
+        }
+      ],
+      "filter_inclusions": [
+        {
+          "description": "Sightseeing",
+          "id": 7566,
+          "name": "Sightseeing"
+        },
+        {
+          "description": "FreeBreakfast",
+          "id": 7567,
+          "name": "Breakfast"
+        },
+        {
+          "description": "Transfer",
+          "id": 7568,
+          "name": "Transfers"
+        },
+        {
+          "description": "Meals",
+          "id": 7570,
+          "name": "Meals"
+        },
+        {
+          "description": "AirportShuttle",
+          "id": 7571,
+          "name": "Airport Pickup-Drop"
+        },
+        {
+          "description": "Cab",
+          "id": 7572,
+          "name": "Private Cab"
+        },
+        {
+          "description": "Flights",
+          "id": 7578,
+          "name": "Flights"
+        }
+      ],
+      "filter_location_experiences": [
+        {
+          "id": 72,
+          "name": "Shopping",
+          "value": "Shopping",
+          "title": null,
+          "category": "Things To Do",
+          "filter_count_key": "location_experience_72"
+        },
+        {
+          "id": 69,
+          "name": "Solang Valley",
+          "value": "Solang Valley",
+          "title": null,
+          "category": "Places To Visit",
+          "filter_count_key": "location_experience_69"
+        },
+        {
+          "id": 68,
+          "name": "Rohtang Pass",
+          "value": "Rohtang Pass",
+          "title": null,
+          "category": "Places To Visit",
+          "filter_count_key": "location_experience_68"
+        },
+        {
+          "id": 70,
+          "name": "Horse Riding",
+          "value": "Horse Riding",
+          "title": null,
+          "category": "Things To Do",
+          "filter_count_key": "location_experience_70"
+        },
+        {
+          "id": 71,
+          "name": "Paragliding",
+          "value": "Paragliding",
+          "title": null,
+          "category": "Things To Do",
+          "filter_count_key": "location_experience_71"
+        },
+        {
+          "id": 73,
+          "name": "Skiing",
+          "value": "Skiing",
+          "title": null,
+          "category": "Things To Do",
+          "filter_count_key": "location_experience_73"
+        },
+        {
+          "id": 66,
+          "name": "Mall Road",
+          "value": "Mall Road",
+          "title": null,
+          "category": "Places To Visit",
+          "filter_count_key": "location_experience_66"
+        },
+        {
+          "id": 75,
+          "name": "Zorbing",
+          "value": "Zorbing",
+          "title": null,
+          "category": "Things To Do",
+          "filter_count_key": "location_experience_75"
+        }
+      ],
+      "is_city": false,
+      "destination_name": "Himachal",
+      "location_name": "Himachal",
+      "packages_top_destination_heading": "Packages by City",
+      "similar_live_cities": [
+        {
+          "id": 20999,
+          "name": "Manali",
+          "count": 366,
+          "packages_path": "/tour-packages/manali",
+          "picture": "https://img.traveltriangle.com/apac/attachments/pictures/875184/original/Manali_Cover.jpg?tr=,w-300",
+          "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/875184/original/Manali_Cover.jpg",
+          "alt": "A breathtaking view of the beautiful hills in Manali"
+        },
+        {
+          "id": 21036,
+          "name": "Shimla",
+          "count": 265,
+          "packages_path": "/tour-packages/shimla",
+          "picture": "https://img.traveltriangle.com/apac/attachments/pictures/875214/original/Shimla_Cover.jpg?tr=,w-300",
+          "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/875214/original/Shimla_Cover.jpg",
+          "alt": "Beautiful hills of Shimla"
+        },
+        {
+          "id": 20985,
+          "name": "Dalhousie",
+          "count": 114,
+          "packages_path": "/tour-packages/dalhousie",
+          "picture": "https://img.traveltriangle.com/apac/attachments/pictures/875635/original/Dalhousie_Cover.jpg?tr=,w-300",
+          "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/875635/original/Dalhousie_Cover.jpg",
+          "alt": "Amazing view of Dalhousie"
+        },
+        {
+          "id": 26399,
+          "name": "Dharamshala",
+          "count": 110,
+          "packages_path": "/tour-packages/dharamshala",
+          "picture": "https://img.traveltriangle.com/apac/attachments/pictures/876119/original/Dharamshala_Cover.jpg?tr=,w-300",
+          "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/876119/original/Dharamshala_Cover.jpg",
+          "alt": "The lush and refreshing hills of Dharamshala"
+        },
+        {
+          "id": 32195,
+          "name": "Kasol",
+          "count": 39,
+          "packages_path": "/tour-packages/kasol",
+          "picture": "https://img.traveltriangle.com/apac/attachments/pictures/875726/original/Kasol_Cover.jpg?tr=,w-300",
+          "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/875726/original/Kasol_Cover.jpg",
+          "alt": "Beautiful view of Parvati Valley in Kasol"
+        },
+        {
+          "id": 73130,
+          "name": "Kheerganga",
+          "count": 19,
+          "packages_path": "/tour-packages/kheerganga",
+          "picture": "/assets/demand/city_tour_guide_mobile/default_destination-8a3032af47bb4bba85c8148881953d38.png",
+          "imagekit_url": "https://img.traveltriangle.com/apac//assets/demand/city_tour_guide_mobile/default_destination-8a3032af47bb4bba85c8148881953d38.png",
+          "alt": "Kheerganga"
+        },
+        {
+          "id": 21024,
+          "name": "Kasauli",
+          "count": 14,
+          "packages_path": "/tour-packages/kasauli",
+          "picture": "https://img.traveltriangle.com/apac/attachments/pictures/875647/original/Kasauli_Cover.jpg?tr=,w-300",
+          "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/875647/original/Kasauli_Cover.jpg",
+          "alt": "Paragliding in Kasauli"
+        },
+        {
+          "id": 73244,
+          "name": "Tosh",
+          "count": 14,
+          "packages_path": "/tour-packages/tosh",
+          "picture": "/assets/demand/city_tour_guide_mobile/default_destination-8a3032af47bb4bba85c8148881953d38.png",
+          "imagekit_url": "https://img.traveltriangle.com/apac//assets/demand/city_tour_guide_mobile/default_destination-8a3032af47bb4bba85c8148881953d38.png",
+          "alt": "Tosh"
+        },
+        {
+          "id": 26322,
+          "name": "Mcleodganj",
+          "count": 11,
+          "packages_path": "/tour-packages/mcleodganj",
+          "picture": "/assets/demand/city_tour_guide_mobile/default_destination-8a3032af47bb4bba85c8148881953d38.png",
+          "imagekit_url": "https://img.traveltriangle.com/apac//assets/demand/city_tour_guide_mobile/default_destination-8a3032af47bb4bba85c8148881953d38.png",
+          "alt": "Mcleodganj"
+        },
+        {
+          "id": 27007,
+          "name": "Khajjiar",
+          "count": 7,
+          "packages_path": "/tour-packages/khajjiar",
+          "picture": "/assets/demand/city_tour_guide_mobile/default_destination-8a3032af47bb4bba85c8148881953d38.png",
+          "imagekit_url": "https://img.traveltriangle.com/apac//assets/demand/city_tour_guide_mobile/default_destination-8a3032af47bb4bba85c8148881953d38.png",
+          "alt": "Khajjiar"
+        },
+        {
+          "id": 21000,
+          "name": "Kullu",
+          "count": 5,
+          "packages_path": "/tour-packages/kullu",
+          "picture": "https://img.traveltriangle.com/apac/attachments/pictures/878709/original/Kullu-cover.jpg?tr=,w-300",
+          "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/878709/original/Kullu-cover.jpg",
+          "alt": "One of the most popular tourist destinations in the country: Kullu"
+        },
+        {
+          "id": 21033,
+          "name": "Narkanda",
+          "count": 4,
+          "packages_path": "/tour-packages/narkanda",
+          "picture": "/assets/demand/city_tour_guide_mobile/default_destination-8a3032af47bb4bba85c8148881953d38.png",
+          "imagekit_url": "https://img.traveltriangle.com/apac//assets/demand/city_tour_guide_mobile/default_destination-8a3032af47bb4bba85c8148881953d38.png",
+          "alt": "Narkanda"
+        },
+        {
+          "id": 72951,
+          "name": "Chitkul",
+          "count": 4,
+          "packages_path": "/tour-packages/chitkul",
+          "picture": "/assets/demand/city_tour_guide_mobile/default_destination-8a3032af47bb4bba85c8148881953d38.png",
+          "imagekit_url": "https://img.traveltriangle.com/apac//assets/demand/city_tour_guide_mobile/default_destination-8a3032af47bb4bba85c8148881953d38.png",
+          "alt": "Chitkul"
+        },
+        {
+          "id": 21025,
+          "name": "Parwanoo",
+          "count": 3,
+          "packages_path": "/tour-packages/parwanoo",
+          "picture": "/assets/demand/city_tour_guide_mobile/default_destination-8a3032af47bb4bba85c8148881953d38.png",
+          "imagekit_url": "https://img.traveltriangle.com/apac//assets/demand/city_tour_guide_mobile/default_destination-8a3032af47bb4bba85c8148881953d38.png",
+          "alt": "Parwanoo"
+        },
+        {
+          "id": 22175,
+          "name": "Chail",
+          "count": 2,
+          "packages_path": "/tour-packages/chail",
+          "picture": "/assets/demand/city_tour_guide_mobile/default_destination-8a3032af47bb4bba85c8148881953d38.png",
+          "imagekit_url": "https://img.traveltriangle.com/apac//assets/demand/city_tour_guide_mobile/default_destination-8a3032af47bb4bba85c8148881953d38.png",
+          "alt": "Chail"
+        },
+        {
+          "id": 20994,
+          "name": "Kangra",
+          "count": 1,
+          "packages_path": "/tour-packages/kangra",
+          "picture": "/assets/demand/city_tour_guide_mobile/default_destination-8a3032af47bb4bba85c8148881953d38.png",
+          "imagekit_url": "https://img.traveltriangle.com/apac//assets/demand/city_tour_guide_mobile/default_destination-8a3032af47bb4bba85c8148881953d38.png",
+          "alt": "Kangra"
+        },
+        {
+          "id": 21030,
+          "name": "Nahan",
+          "count": 1,
+          "packages_path": "/tour-packages/nahan",
+          "picture": "/assets/demand/city_tour_guide_mobile/default_destination-8a3032af47bb4bba85c8148881953d38.png",
+          "imagekit_url": "https://img.traveltriangle.com/apac//assets/demand/city_tour_guide_mobile/default_destination-8a3032af47bb4bba85c8148881953d38.png",
+          "alt": "Nahan"
+        },
+        {
+          "id": 21214,
+          "name": "Chamba",
+          "count": 1,
+          "packages_path": "/tour-packages/chamba",
+          "picture": "/assets/demand/city_tour_guide_mobile/default_destination-8a3032af47bb4bba85c8148881953d38.png",
+          "imagekit_url": "https://img.traveltriangle.com/apac//assets/demand/city_tour_guide_mobile/default_destination-8a3032af47bb4bba85c8148881953d38.png",
+          "alt": "Chamba"
+        },
+        {
+          "id": 73061,
+          "name": "Kufri",
+          "count": 1,
+          "packages_path": "/tour-packages/kufri",
+          "picture": "/assets/demand/city_tour_guide_mobile/default_destination-8a3032af47bb4bba85c8148881953d38.png",
+          "imagekit_url": "https://img.traveltriangle.com/apac//assets/demand/city_tour_guide_mobile/default_destination-8a3032af47bb4bba85c8148881953d38.png",
+          "alt": "Kufri"
+        },
+        {
+          "id": 73131,
+          "name": "Malana ",
+          "count": 1,
+          "packages_path": "/tour-packages/malana",
+          "picture": "/assets/demand/city_tour_guide_mobile/default_destination-8a3032af47bb4bba85c8148881953d38.png",
+          "imagekit_url": "https://img.traveltriangle.com/apac//assets/demand/city_tour_guide_mobile/default_destination-8a3032af47bb4bba85c8148881953d38.png",
+          "alt": "Malana "
+        },
+        {
+          "id": 73133,
+          "name": "Bir Billing ",
+          "count": 1,
+          "packages_path": "/tour-packages/bir-billing",
+          "picture": "/assets/demand/city_tour_guide_mobile/default_destination-8a3032af47bb4bba85c8148881953d38.png",
+          "imagekit_url": "https://img.traveltriangle.com/apac//assets/demand/city_tour_guide_mobile/default_destination-8a3032af47bb4bba85c8148881953d38.png",
+          "alt": "Bir Billing "
+        },
+        {
+          "id": 73463,
+          "name": "Jibhi",
+          "count": 1,
+          "packages_path": "/tour-packages/jibhi",
+          "picture": "/assets/demand/city_tour_guide_mobile/default_destination-8a3032af47bb4bba85c8148881953d38.png",
+          "imagekit_url": "https://img.traveltriangle.com/apac//assets/demand/city_tour_guide_mobile/default_destination-8a3032af47bb4bba85c8148881953d38.png",
+          "alt": "Jibhi"
+        }
+      ],
+      "is_es": true,
+      "is_multi_destination": false,
+      "dynamic_plp_page": false,
+      "multi_destination_texts": [],
+      "banner_headline": "",
+      "filter_category": [],
+      "form_to_location": null,
+      "similar_destinations": [
+        {
+          "id": 56,
+          "name": "Kerala",
+          "destination_url": "/tour-packages/kerala",
+          "starting_budget": 3324,
+          "number_of_travelers": 963000,
+          "number_of_experts": 20,
+          "destination_image_url": "https://img.traveltriangle.com/apac/attachments/pictures/840460/original/Kerala.jpg?tr=,w_1024,h_768",
+          "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/840460/original/Kerala.jpg"
+        },
+        {
+          "id": 58,
+          "name": "Ladakh",
+          "destination_url": "/tour-packages/ladakh",
+          "starting_budget": 13999,
+          "number_of_travelers": 172000,
+          "number_of_experts": 20,
+          "destination_image_url": "https://img.traveltriangle.com/apac/attachments/pictures/840468/original/Ladakh.jpg?tr=,w_1024,h_768",
+          "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/840468/original/Ladakh.jpg"
+        },
+        {
+          "id": 66,
+          "name": "Kashmir",
+          "destination_url": "/tour-packages/kashmir",
+          "starting_budget": 5599,
+          "number_of_travelers": 401000,
+          "number_of_experts": 20,
+          "destination_image_url": "https://img.traveltriangle.com/apac/attachments/pictures/840668/original/Kashmir.jpg?tr=,w_1024,h_768",
+          "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/840668/original/Kashmir.jpg"
+        },
+        {
+          "id": 171,
+          "name": "Sikkim - Gangtok - Darjeeling",
+          "destination_url": "/tour-packages/sikkim-gangtok-darjeeling",
+          "starting_budget": 13223,
+          "number_of_travelers": 500000,
+          "number_of_experts": 20,
+          "destination_image_url": "https://img.traveltriangle.com/apac/attachments/pictures/841124/original/Sikkim.jpg?tr=,w_1024,h_768",
+          "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/841124/original/Sikkim.jpg"
+        },
+        {
+          "id": 176,
+          "name": "Uttarakhand",
+          "destination_url": "/tour-packages/uttarakhand",
+          "starting_budget": 999,
+          "number_of_travelers": 426000,
+          "number_of_experts": 20,
+          "destination_image_url": "https://img.traveltriangle.com/apac/attachments/pictures/841121/original/uttrakhand.jpg?tr=,w_1024,h_768",
+          "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/841121/original/uttrakhand.jpg"
+        }
+      ],
+      "packages": [
+        {
+          "id": 731,
+          "name": "Manali-Kasol Tour Package For Himachal By Cab",
+          "days": 4,
+          "nights": 3,
+          "promo_tag": 0,
+          "mvp_tags": [],
+          "image_url": "https://img.traveltriangle.com/apac//attachments/pictures/846090/original/22.jpg",
+          "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/846090/original/22.jpg",
+          "mini_desc": "Per Person on twin sharing",
+          "price_total": 12688,
+          "currency": "Rupee",
+          "discounted_price": 10500,
+          "discount_percentage": 17.2414,
+          "tnc": "Exact prices may vary based on availability.",
+          "cities": [
+            "Manali",
+            "Manali",
+            "Kasol",
+            "Kasol"
+          ],
+          "share_url": "https://traveltriangle.com/packages/3nights-4days-manali-kasol-tour-for-himachal-by-cab?id=731",
+          "set_url": "3nights-4days-manali-kasol-tour-for-himachal-by-cab",
+          "inclusions": [
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Upto 2 Stars"
+            },
+            {
+              "key": "flights",
+              "available": false,
+              "text": "Flights"
+            },
+            {
+              "key": "meals",
+              "available": true,
+              "text": "Meals"
+            },
+            {
+              "key": "sightseeing",
+              "available": true,
+              "text": "Sightseeing"
+            },
+            {
+              "key": "entrytickets",
+              "available": true,
+              "text": "Entry Tickets"
+            },
+            {
+              "key": "cab",
+              "available": true,
+              "text": "Cab Transfer"
+            }
+          ],
+          "trip_types": [
+            {
+              "id": 1,
+              "name": "Romantic"
+            },
+            {
+              "id": 5,
+              "name": "Nature"
+            },
+            {
+              "id": 2,
+              "name": "Adventure"
+            }
+          ],
+          "destinations": [
+            {
+              "id": 163,
+              "name": "Chandigarh"
+            },
+            {
+              "id": 166,
+              "name": "Himachal"
+            },
+            {
+              "id": 173,
+              "name": "Punjab"
+            }
+          ],
+          "labels": [
+            "Adventure",
+            "Offbeat",
+            "Nature",
+            "Ideal for friends",
+            "Sightseeing",
+            "Budget"
+          ],
+          "family_packages": {
+            "733": [4, 15100, 18246],
+            "732": [3, 12500, 15104],
+            "731": [2, 10500, 12688]
+          },
+          "city_list_with_days": {
+            "Manali": 2,
+            "Kasol": 2
+          },
+          "overview": "\u003Cp\u003EManali-Kasol Tour Package for Himachal is one of the \u003Cstrong\u003Etop selling packages of Himachal\u003C/strong\u003E from Chandigarh. With a \u003Cstrong\u003E3 nights 4 days Himachal itinerary\u003C/strong\u003E and cab transfers for intercity and intra city travel, this is perfect long weekend getaway from Chandigarh.",
+          "plp_heading": "",
+          "plp_description": "",
+          "is_bookable": false
+        },
+        {
+          "id": 6824,
+          "name": "Riveting Himachal Tour Package",
+          "days": 11,
+          "nights": 10,
+          "promo_tag": 0,
+          "mvp_tags": [],
+          "image_url": "https://img.traveltriangle.com/apac//attachments/pictures/891807/original/The-bridge-connecting-the-old-Manali-with-the-new-Manali.jpg",
+          "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/891807/original/The-bridge-connecting-the-old-Manali-with-the-new-Manali.jpg",
+          "mini_desc": "Per Person on twin sharing",
+          "price_total": 42308,
+          "currency": "Rupee",
+          "discounted_price": 38500,
+          "discount_percentage": 9,
+          "tnc": "Exact prices may vary based on availability.",
+          "cities": [
+            "Shimla",
+            "Shimla",
+            "Manali",
+            "Manali",
+            "Manali",
+            "Dharamshala",
+            "Dharamshala",
+            "Dalhousie",
+            "Amritsar",
+            "Shimla",
+            "New Delhi"
+          ],
+          "share_url": "https://traveltriangle.com/packages/10nights-11days-himachal-tour-riveting?id=6824",
+          "set_url": "10nights-11days-himachal-tour-riveting",
+          "inclusions": [
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Upto 3 Stars"
+            },
+            {
+              "key": "flights",
+              "available": false,
+              "text": "Flights"
+            },
+            {
+              "key": "meals",
+              "available": true,
+              "text": "Meals"
+            },
+            {
+              "key": "sightseeing",
+              "available": true,
+              "text": "Sightseeing"
+            },
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Stay Included"
+            },
+            {
+              "key": "transfer",
+              "available": true,
+              "text": "Transfers"
+            }
+          ],
+          "trip_types": [
+            {
+              "id": 2,
+              "name": "Adventure"
+            },
+            {
+              "id": 4,
+              "name": "Family"
+            },
+            {
+              "id": 20,
+              "name": "Friends"
+            },
+            {
+              "id": 5,
+              "name": "Nature"
+            },
+            {
+              "id": 6,
+              "name": "Hill station"
+            }
+          ],
+          "destinations": [
+            {
+              "id": 166,
+              "name": "Himachal"
+            },
+            {
+              "id": 173,
+              "name": "Punjab"
+            },
+            {
+              "id": 187,
+              "name": "Delhi"
+            }
+          ],
+          "labels": [
+            "Sightseeing",
+            "Adventure",
+            "Temple",
+            "Nature",
+            "Churches",
+            "Hill station",
+            "Shopping",
+            "Religious",
+            "Historical",
+            "Budget"
+          ],
+          "family_packages": {
+            "6824": [3, 38500, 42308]
+          },
+          "city_list_with_days": {
+            "Shimla": 3,
+            "Manali": 3,
+            "Dharamshala": 2,
+            "Dalhousie": 1,
+            "Amritsar": 1,
+            "New Delhi": 1
+          },
+          "overview": "\u003Cp\u003EHimachal Pradesh is one of the most famous hilly destination in India. Renowned for its exquisite natural terrain, the state is covered with various hill stations, rivers, dense forests and biodiversity. Apart from proffering a quaint corner for a soul-soothing exposure, the Tibetan culture and food also serve as major allurements of the region. With this \u003Cstrong\u003E11 days Himachal tour,\u003C/strong\u003E travel across Shimla, Manali, Dharamshala, Dalhousie, Amritsar and Delhi for a riveting North Indian tour.",
+          "plp_heading": "",
+          "plp_description": "",
+          "is_bookable": false
+        },
+        {
+          "id": 6826,
+          "name": "Magnificent Himachal Tour Package",
+          "days": 10,
+          "nights": 9,
+          "promo_tag": 0,
+          "mvp_tags": [],
+          "image_url": "https://img.traveltriangle.com/apac//attachments/pictures/854783/original/54.jpg",
+          "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/854783/original/54.jpg",
+          "mini_desc": "Per Person on twin sharing",
+          "price_total": 37912,
+          "currency": "Rupee",
+          "discounted_price": 34500,
+          "discount_percentage": 9,
+          "tnc": "Exact prices may vary based on availability.",
+          "cities": [
+            "Chandigarh",
+            "Shimla",
+            "Shimla",
+            "Manali",
+            "Manali",
+            "Manali",
+            "Dharamshala",
+            "Dalhousie",
+            "Dalhousie",
+            "himachal"
+          ],
+          "share_url": "https://traveltriangle.com/packages/9nights-10days-himachal-tour-magnificent?id=6826",
+          "set_url": "9nights-10days-himachal-tour-magnificent",
+          "inclusions": [
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Upto 3 Stars"
+            },
+            {
+              "key": "flights",
+              "available": false,
+              "text": "Flights"
+            },
+            {
+              "key": "meals",
+              "available": true,
+              "text": "Meals"
+            },
+            {
+              "key": "sightseeing",
+              "available": true,
+              "text": "Sightseeing"
+            },
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Stay Included"
+            },
+            {
+              "key": "transfer",
+              "available": true,
+              "text": "Transfers"
+            }
+          ],
+          "trip_types": [
+            {
+              "id": 2,
+              "name": "Adventure"
+            },
+            {
+              "id": 4,
+              "name": "Family"
+            },
+            {
+              "id": 6,
+              "name": "Hill station"
+            },
+            {
+              "id": 20,
+              "name": "Friends"
+            },
+            {
+              "id": 7,
+              "name": "Religious"
+            }
+          ],
+          "destinations": [
+            {
+              "id": 166,
+              "name": "Himachal"
+            },
+            {
+              "id": 173,
+              "name": "Punjab"
+            }
+          ],
+          "labels": [
+            "Sightseeing",
+            "Temple",
+            "Hill station",
+            "Churches",
+            "Religious",
+            "Adventure",
+            "Historical",
+            "Budget"
+          ],
+          "family_packages": {
+            "6826": [3, 34500, 37912]
+          },
+          "city_list_with_days": {
+            "Chandigarh": 1,
+            "Shimla": 2,
+            "Manali": 3,
+            "Dharamshala": 1,
+            "Dalhousie": 2,
+            "himachal": 1
+          },
+          "overview": "\u003Cp\u003EHimachal Pradesh is one of the most sought after destination in India. Known for its natural environment, the state is dotted with various hill stations, rivers, and dense forests. Owing to its scenic terrain and paradisal climate, people from all corners of the world flock for an immediate soul-reviving experience. With this\u003Cstrong\u003E 10 days Himachal tour,\u003C/strong\u003E spent your long vacay in the heavenly hill stations of Shimla, Manali, Dharamshala and Dalhousie which give the perfect amount of relaxation and stimulation.",
+          "plp_heading": "",
+          "plp_description": "",
+          "is_bookable": false
+        },
+        {
+          "id": 4217,
+          "name": "Ecstatic Shimla 4 Night 5 Day Tour Package",
+          "days": 5,
+          "nights": 4,
+          "promo_tag": 0,
+          "mvp_tags": [],
+          "image_url": "https://img.traveltriangle.com/apac//attachments/pictures/880479/original/shutterstock_603705332_687x478.jpg",
+          "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/880479/original/shutterstock_603705332_687x478.jpg",
+          "mini_desc": "Per Person on twin sharing",
+          "price_total": 14205,
+          "currency": "Rupee",
+          "discounted_price": 12500,
+          "discount_percentage": 12,
+          "tnc": "Exact prices may vary based on availability.",
+          "cities": [
+            "Shimla",
+            "Shimla",
+            "Shimla",
+            "Shimla",
+            "Shimla"
+          ],
+          "share_url": "https://traveltriangle.com/packages/4nights-5days-shimla-tour?id=4217",
+          "set_url": "4nights-5days-shimla-tour",
+          "inclusions": [
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Upto 3 Stars"
+            },
+            {
+              "key": "flights",
+              "available": false,
+              "text": "Flights"
+            },
+            {
+              "key": "meals",
+              "available": true,
+              "text": "Meals"
+            },
+            {
+              "key": "sightseeing",
+              "available": true,
+              "text": "Sightseeing"
+            },
+            {
+              "key": "cab",
+              "available": true,
+              "text": "Private Cab"
+            },
+            {
+              "key": "transfer",
+              "available": true,
+              "text": "Transfers"
+            },
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Stay Included"
+            }
+          ],
+          "trip_types": [
+            {
+              "id": 4,
+              "name": "Family"
+            },
+            {
+              "id": 20,
+              "name": "Friends"
+            },
+            {
+              "id": 5,
+              "name": "Nature"
+            }
+          ],
+          "destinations": [
+            {
+              "id": 166,
+              "name": "Himachal"
+            },
+            {
+              "id": 207,
+              "name": "Shimla"
+            }
+          ],
+          "labels": [
+            "Sightseeing",
+            "Nature",
+            "Overnight Journey",
+            "Wildlife",
+            "Horse/Yak ride",
+            "Adventure",
+            "Budget"
+          ],
+          "family_packages": {
+            "4217": [3, 12500, 14205]
+          },
+          "city_list_with_days": {
+            "Shimla": 5
+          },
+          "overview": "\u003Cp\u003EExplore the former summer capital of the British in India at its best with an ecstatic \u003Cstrong\u003E5 nights 6 days Shimla tour package.\u003C/strong\u003E Enabling a traveler to relish the lush green hills with snow-capped peaks, one can witness the amalgamation of the Himachali and British traditions, capture a glimpse of the British architecture, and savour the taste of authentic Himachali food with a \u003Cstrong\u003EShimla sightseeing package.\u003C/strong\u003E This package also includes a road trip from Delhi to Shimla.",
+          "plp_heading": "",
+          "plp_description": "",
+          "is_bookable": false
+        },
+        {
+          "id": 9339,
+          "name": "Pleasing Himachal Tour Packages From Pune",
+          "days": 9,
+          "nights": 8,
+          "promo_tag": 0,
+          "mvp_tags": [],
+          "image_url": "https://img.traveltriangle.com/apac//attachments/pictures/891682/original/Viceregal-Lodge-link-2.jpg",
+          "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/891682/original/Viceregal-Lodge-link-2.jpg",
+          "mini_desc": "Per Person on twin sharing",
+          "price_total": 36484,
+          "currency": "Rupee",
+          "discounted_price": 33200,
+          "discount_percentage": 9,
+          "tnc": "Exact prices may vary based on availability.",
+          "cities": [
+            "Shimla",
+            "Shimla",
+            "Manali",
+            "Manali",
+            "Manali",
+            "Dharamshala",
+            "Dalhousie",
+            "Khajjiar",
+            "Shimla"
+          ],
+          "share_url": "https://traveltriangle.com/packages/8nights-9days-exciting-voyage-to-himachal-pradesh?id=9339",
+          "set_url": "8nights-9days-exciting-voyage-to-himachal-pradesh",
+          "inclusions": [
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Upto 4 Stars"
+            },
+            {
+              "key": "flights",
+              "available": false,
+              "text": "Flights"
+            },
+            {
+              "key": "meals",
+              "available": true,
+              "text": "Meals"
+            },
+            {
+              "key": "sightseeing",
+              "available": true,
+              "text": "Sightseeing"
+            },
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Stay Included"
+            },
+            {
+              "key": "transfer",
+              "available": true,
+              "text": "Transfers"
+            }
+          ],
+          "trip_types": [
+            {
+              "id": 2,
+              "name": "Adventure"
+            },
+            {
+              "id": 4,
+              "name": "Family"
+            },
+            {
+              "id": 5,
+              "name": "Nature"
+            },
+            {
+              "id": 6,
+              "name": "Hill station"
+            },
+            {
+              "id": 11,
+              "name": "Water Activities"
+            },
+            {
+              "id": 20,
+              "name": "Friends"
+            }
+          ],
+          "destinations": [
+            {
+              "id": 166,
+              "name": "Himachal"
+            }
+          ],
+          "labels": [
+            "Hill station",
+            "Adventure",
+            "Water Activities",
+            "Cultural",
+            "Nature",
+            "Trekking",
+            "Budget"
+          ],
+          "family_packages": {
+            "9339": [4, 33200, 36484]
+          },
+          "city_list_with_days": {
+            "Shimla": 3,
+            "Manali": 3,
+            "Dharamshala": 1,
+            "Dalhousie": 1,
+            "Khajjiar": 1
+          },
+          "overview": "\u003Cp\u003EEmbraced by the serenity amidst a convoluted topography of interlocking chains of misty mountains, Himachal Pradesh is a treasure trove of natural wonders you need to explore! Opt for our affordable \u003Cstrong\u003EHimachal tour packages from Pune\u003C/strong\u003E, and witness the incredible beauty of nature that will leave you in awe, for sure! A kingdom of natural elegance and cultural heritage, this heaven for nature lovers is meant to amaze you with its natural beauty. So, take our recommendation; and navigate through the snow-capped mountains, temples, lakes, and hills to find complete bliss!",
+          "plp_heading": "",
+          "plp_description": "",
+          "is_bookable": false
+        },
+        {
+          "id": 15942,
+          "name": "Himachal Holiday Package For 2 Nights 3 Days",
+          "days": 3,
+          "nights": 2,
+          "promo_tag": 0,
+          "mvp_tags": [],
+          "image_url": "https://img.traveltriangle.com/apac//attachments/pictures/854844/original/30.jpg",
+          "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/854844/original/30.jpg",
+          "mini_desc": "Per Person on twin sharing",
+          "price_total": 9043,
+          "currency": "Rupee",
+          "discounted_price": 8500,
+          "discount_percentage": 6,
+          "tnc": "Exact prices may vary based on availability.",
+          "cities": [
+            "Shimla",
+            "Shimla",
+            "Shimla"
+          ],
+          "share_url": "https://traveltriangle.com/packages/2n-3d-himachal-holiday?id=15942",
+          "set_url": "2n-3d-himachal-holiday",
+          "inclusions": [
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Upto 3 Stars"
+            },
+            {
+              "key": "flights",
+              "available": false,
+              "text": "Flights"
+            },
+            {
+              "key": "meals",
+              "available": true,
+              "text": "Meals"
+            },
+            {
+              "key": "sightseeing",
+              "available": true,
+              "text": "Sightseeing"
+            },
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Stay Included"
+            },
+            {
+              "key": "transfer",
+              "available": true,
+              "text": "Transfers"
+            }
+          ],
+          "trip_types": [
+            {
+              "id": 5,
+              "name": "Nature"
+            },
+            {
+              "id": 2,
+              "name": "Adventure"
+            },
+            {
+              "id": 20,
+              "name": "Friends"
+            }
+          ],
+          "destinations": [
+            {
+              "id": 166,
+              "name": "Himachal"
+            }
+          ],
+          "labels": [
+            "Water Sports",
+            "Nature",
+            "Mountains ",
+            "Adventure",
+            "Churches",
+            "Trekking",
+            "Hiking",
+            "Paragliding",
+            "Waterfall",
+            "group",
+            "Budget"
+          ],
+          "family_packages": {
+            "15942": [3, 8500, 9043]
+          },
+          "city_list_with_days": {
+            "Shimla": 3
+          },
+          "overview": "\u003Cp\u003EDream a perfect vacation to Himachal Pradesh because it is truly a pleasurable place which is comprised with many popular travel destinations in India. The high peak mountains makes Himachal Pradesh a must visit place. For nature lovers, you can explore the breathtakingly beautiful meadows and hilly regions. The entire place is dotted with many monasteries, forts, temples, springs, wildlife, valleys, lakes and waterfalls. It is located in the northern western part of India which is stretched in an area of about 56,019 sq. km. The alluring beauty of the state attracts many visitors from all over the globe.",
+          "plp_heading": "",
+          "plp_description": "",
+          "is_bookable": false
+        },
+        {
+          "id": 9317,
+          "name": "Fascinating Manali Tour Package From Ahmedabad",
+          "days": 4,
+          "nights": 3,
+          "promo_tag": 0,
+          "mvp_tags": [],
+          "image_url": "https://img.traveltriangle.com/apac//attachments/pictures/891820/original/solang-valley-LINK-1.jpg",
+          "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/891820/original/solang-valley-LINK-1.jpg",
+          "mini_desc": "Per Person on twin sharing",
+          "price_total": 10989,
+          "currency": "Rupee",
+          "discounted_price": 10000,
+          "discount_percentage": 9,
+          "tnc": "Exact prices may vary based on availability.",
+          "cities": [
+            "Manali",
+            "Manali",
+            "Manali",
+            "Manali"
+          ],
+          "share_url": "https://traveltriangle.com/packages/3nights-4days-manali-tour-fascinating?id=9317",
+          "set_url": "3nights-4days-manali-tour-fascinating",
+          "inclusions": [
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Upto 3 Stars"
+            },
+            {
+              "key": "flights",
+              "available": false,
+              "text": "Flights"
+            },
+            {
+              "key": "meals",
+              "available": true,
+              "text": "Meals"
+            },
+            {
+              "key": "sightseeing",
+              "available": true,
+              "text": "Sightseeing"
+            },
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Stay Included"
+            },
+            {
+              "key": "transfer",
+              "available": true,
+              "text": "Transfers"
+            }
+          ],
+          "trip_types": [
+            {
+              "id": 2,
+              "name": "Adventure"
+            },
+            {
+              "id": 4,
+              "name": "Family"
+            },
+            {
+              "id": 5,
+              "name": "Nature"
+            },
+            {
+              "id": 6,
+              "name": "Hill station"
+            },
+            {
+              "id": 11,
+              "name": "Water Activities"
+            },
+            {
+              "id": 20,
+              "name": "Friends"
+            }
+          ],
+          "destinations": [
+            {
+              "id": 166,
+              "name": "Himachal"
+            }
+          ],
+          "labels": [
+            "Solang Valley",
+            "Nature",
+            "Rohtang Pass",
+            "Water Activities",
+            "Shopping",
+            "Adventure",
+            "Hill station",
+            "Paragliding",
+            "Budget"
+          ],
+          "family_packages": {
+            "9317": [3, 10000, 10989]
+          },
+          "city_list_with_days": {
+            "Manali": 4
+          },
+          "overview": "\u003Cp\u003EManali is a very beautiful hill station nestled amidst picturesque landscapes, lofty mountains and lush forests of pine and cedar. Manali is one amazing tourist destination among all the solo travelers, families, friends, couples and adventure enthusiasts. However, being a tourism hub, Manali offers a wide array of tourist attractions which cannot be explored at once. Therefore, booking any of the bestselling \u003Cstrong\u003EManali tour packages from Ahmedabad and Vadodara\u003C/strong\u003E and major cities seems the best way to enjoy a planned and hassle free vacation.",
+          "plp_heading": "",
+          "plp_description": "",
+          "is_bookable": false
+        },
+        {
+          "id": 9333,
+          "name": "Astonishing Himachal Tour Package From Bangalore",
+          "days": 9,
+          "nights": 8,
+          "promo_tag": 0,
+          "mvp_tags": [],
+          "image_url": "https://img.traveltriangle.com/apac//attachments/pictures/854867/original/19.jpg",
+          "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/854867/original/19.jpg",
+          "mini_desc": "Per Person on twin sharing",
+          "price_total": 36484,
+          "currency": "Rupee",
+          "discounted_price": 33200,
+          "discount_percentage": 9,
+          "tnc": "Exact prices may vary based on availability.",
+          "cities": [
+            "Shimla",
+            "Shimla",
+            "Manali",
+            "Manali",
+            "Manali",
+            "Dharamshala",
+            "Dalhousie",
+            "Dalhousie",
+            "Dalhousie"
+          ],
+          "share_url": "https://traveltriangle.com/packages/8nights-9days-himachal-tour?id=9333",
+          "set_url": "8nights-9days-himachal-tour",
+          "inclusions": [
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Upto 3 Stars"
+            },
+            {
+              "key": "flights",
+              "available": false,
+              "text": "Flights"
+            },
+            {
+              "key": "meals",
+              "available": true,
+              "text": "Meals"
+            },
+            {
+              "key": "sightseeing",
+              "available": true,
+              "text": "Sightseeing"
+            },
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Stay Included"
+            },
+            {
+              "key": "transfer",
+              "available": true,
+              "text": "Transfers"
+            }
+          ],
+          "trip_types": [
+            {
+              "id": 4,
+              "name": "Family"
+            },
+            {
+              "id": 20,
+              "name": "Friends"
+            },
+            {
+              "id": 2,
+              "name": "Adventure"
+            },
+            {
+              "id": 5,
+              "name": "Nature"
+            },
+            {
+              "id": 6,
+              "name": "Hill station"
+            }
+          ],
+          "destinations": [
+            {
+              "id": 166,
+              "name": "Himachal"
+            }
+          ],
+          "labels": [
+            "Solang Valley",
+            "Adventure",
+            "Dalhousie ",
+            "Nature",
+            "Hill station",
+            "Sightseeing",
+            "FOREST",
+            "Budget"
+          ],
+          "family_packages": {
+            "9333": [3, 33200, 36484]
+          },
+          "city_list_with_days": {
+            "Shimla": 2,
+            "Manali": 3,
+            "Dharamshala": 1,
+            "Dalhousie": 3
+          },
+          "overview": "\u003Cp\u003EThe North Indian state of Himachal Pradesh welcomes all kinds of vacationers ranging from solitary travelers, families with kids, honeymooners to groups of friends. Himachal Pradesh houses worldwide famous holiday destinations which attract vacationers throughout the year. However, planning a vacation to Himachal will take up your valuable time catering to the fact that it is a massive state and there is no dearth of places to visit in Himachal Pradesh. Therefore, Himachal is best visited by booking \u003Cstrong\u003EHimachal tour packages from Bangalore\u003C/strong\u003E beforehand so that you save up on time and may get a chance to utilize it somewhere else.",
+          "plp_heading": "",
+          "plp_description": "",
+          "is_bookable": false
+        },
+        {
+          "id": 190,
+          "name": "Himachal Family Tour Package From Pathankot By Cab",
+          "days": 5,
+          "nights": 4,
+          "promo_tag": 0,
+          "mvp_tags": [],
+          "image_url": "https://img.traveltriangle.com/apac//attachments/pictures/884126/original/shutterstock_374201314_(2).jpg",
+          "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/884126/original/shutterstock_374201314_(2).jpg",
+          "mini_desc": "Per Person on twin sharing",
+          "price_total": 22769,
+          "currency": "Rupee",
+          "discounted_price": 18500,
+          "discount_percentage": 18.75,
+          "tnc": "Exact prices may vary based on availability.",
+          "cities": [
+            "Dalhousie",
+            "Dalhousie",
+            "Dharamshala",
+            "Dharamshala",
+            "Dharamshala"
+          ],
+          "share_url": "https://traveltriangle.com/packages/4nights-5days-himachal-family-tour-from-pathankot-by-cab?id=190",
+          "set_url": "4nights-5days-himachal-family-tour-from-pathankot-by-cab",
+          "inclusions": [
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Upto 2 Stars"
+            },
+            {
+              "key": "flights",
+              "available": false,
+              "text": "Flights"
+            },
+            {
+              "key": "meals",
+              "available": true,
+              "text": "Meals"
+            },
+            {
+              "key": "sightseeing",
+              "available": true,
+              "text": "Sightseeing"
+            },
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Stay Included"
+            },
+            {
+              "key": "transfer",
+              "available": true,
+              "text": "Transfers"
+            }
+          ],
+          "trip_types": [
+            {
+              "id": 4,
+              "name": "Family"
+            },
+            {
+              "id": 2,
+              "name": "Adventure"
+            },
+            {
+              "id": 5,
+              "name": "Nature"
+            },
+            {
+              "id": 6,
+              "name": "Hill station"
+            },
+            {
+              "id": 7,
+              "name": "Religious"
+            }
+          ],
+          "destinations": [
+            {
+              "id": 166,
+              "name": "Himachal"
+            }
+          ],
+          "labels": [
+            "Mall Road",
+            "Rohtang Pass",
+            "Skiing",
+            "Christ church",
+            "Adventure",
+            "Nature",
+            "Hill station",
+            "Religious",
+            "Family",
+            "Budget"
+          ],
+          "family_packages": {
+            "192": [4, 25500, 31385],
+            "191": [3, 22500, 27692],
+            "190": [2, 18500, 22769]
+          },
+          "city_list_with_days": {
+            "Dalhousie": 2,
+            "Dharamshala": 3
+          },
+          "overview": "\u003Cp\u003E\u003Cstrong\u003EHimachal Family Tour Package\u003C/strong\u003E is a holistic family holiday tour that starts at Pathankot. It includes private cab transfers within and outside Himachal. The \u003Cstrong\u003E4 nights 5 days itinerary\u003C/strong\u003E is split into 2 nights in Dalhousie followed by 2 nights in Dharamshala. Both destinations are less crowded as compared to other popular hill stations of Himachal Pradesh.",
+          "plp_heading": "",
+          "plp_description": "",
+          "is_bookable": false
+        },
+        {
+          "id": 9342,
+          "name": "Kaleidoscopic Himachal Tour Packages From Kolkata",
+          "days": 9,
+          "nights": 8,
+          "promo_tag": 0,
+          "mvp_tags": [],
+          "image_url": "https://img.traveltriangle.com/apac//attachments/pictures/892388/original/chruch-link-1.jpg",
+          "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/892388/original/chruch-link-1.jpg",
+          "mini_desc": "Per Person on twin sharing",
+          "price_total": 39011,
+          "currency": "Rupee",
+          "discounted_price": 35500,
+          "discount_percentage": 9,
+          "tnc": "Exact prices may vary based on availability.",
+          "cities": [
+            "Shimla",
+            "Shimla",
+            "Manali",
+            "Manali",
+            "Manali",
+            "Dharamshala",
+            "Dalhousie",
+            "Khajjiar",
+            "Shimla"
+          ],
+          "share_url": "https://traveltriangle.com/packages/8nights-9days-enticing-escape-towards-himachal-pradesh?id=9342",
+          "set_url": "8nights-9days-enticing-escape-towards-himachal-pradesh",
+          "inclusions": [
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Upto 4 Stars"
+            },
+            {
+              "key": "flights",
+              "available": false,
+              "text": "Flights"
+            },
+            {
+              "key": "meals",
+              "available": true,
+              "text": "Meals"
+            },
+            {
+              "key": "sightseeing",
+              "available": true,
+              "text": "Sightseeing"
+            },
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Stay Included"
+            },
+            {
+              "key": "transfer",
+              "available": true,
+              "text": "Transfers"
+            }
+          ],
+          "trip_types": [
+            {
+              "id": 2,
+              "name": "Adventure"
+            },
+            {
+              "id": 5,
+              "name": "Nature"
+            },
+            {
+              "id": 6,
+              "name": "Hill station"
+            },
+            {
+              "id": 4,
+              "name": "Family"
+            },
+            {
+              "id": 9,
+              "name": "Wildlife"
+            }
+          ],
+          "destinations": [
+            {
+              "id": 166,
+              "name": "Himachal"
+            }
+          ],
+          "labels": [
+            "Sightseeing",
+            "Adventure",
+            "Wildlife",
+            "Scenic Landscapes",
+            "Nature",
+            "Hill station",
+            "Waterfall",
+            "Budget"
+          ],
+          "family_packages": {
+            "9342": [4, 35500, 39011]
+          },
+          "city_list_with_days": {
+            "Shimla": 3,
+            "Manali": 3,
+            "Dharamshala": 1,
+            "Dalhousie": 1,
+            "Khajjiar": 1
+          },
+          "overview": "\u003Cp\u003EA kingdom of natural elegance and cultural heritage, Himachal Pradesh is a treasure trove of natural wonders you need to explore! Choose from our affordable \u003Cstrong\u003EHimachal tour packages from Kolkata\u003C/strong\u003E to witness the incredible beauty of nature, and see yourself left in amazement, for sure! Embraced by the serenity amidst a convoluted topography of interlocking chains of misty mountains, this heaven for nature lovers will leave you in awe. So, take our recommendation; and navigate through the snow-capped mountains, temples, lakes, and hills to find the utter bliss!",
+          "plp_heading": "",
+          "plp_description": "",
+          "is_bookable": false
+        },
+        {
+          "id": 9299,
+          "name": "Magical Himachal Trip Packages From Mumbai",
+          "days": 9,
+          "nights": 8,
+          "promo_tag": 0,
+          "mvp_tags": [],
+          "image_url": "https://img.traveltriangle.com/apac//attachments/pictures/891015/original/Dalhousie_-Himachal-Pradesh.jpg",
+          "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/891015/original/Dalhousie_-Himachal-Pradesh.jpg",
+          "mini_desc": "Per Person on twin sharing",
+          "price_total": 39011,
+          "currency": "Rupee",
+          "discounted_price": 35500,
+          "discount_percentage": 9,
+          "tnc": "Exact prices may vary based on availability.",
+          "cities": [
+            "Shimla",
+            "Shimla",
+            "Manali",
+            "Manali",
+            "Manali",
+            "Dharamshala",
+            "Dalhousie",
+            "Khajjiar",
+            "Shimla"
+          ],
+          "share_url": "https://traveltriangle.com/packages/8nights-9days-voyage-to-heavenly-himachal?id=9299",
+          "set_url": "8nights-9days-voyage-to-heavenly-himachal",
+          "inclusions": [
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Upto 4 Stars"
+            },
+            {
+              "key": "flights",
+              "available": false,
+              "text": "Flights"
+            },
+            {
+              "key": "meals",
+              "available": true,
+              "text": "Meals"
+            },
+            {
+              "key": "sightseeing",
+              "available": true,
+              "text": "Sightseeing"
+            },
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Stay Included"
+            },
+            {
+              "key": "transfer",
+              "available": true,
+              "text": "Transfers"
+            }
+          ],
+          "trip_types": [
+            {
+              "id": 2,
+              "name": "Adventure"
+            },
+            {
+              "id": 5,
+              "name": "Nature"
+            },
+            {
+              "id": 4,
+              "name": "Family"
+            },
+            {
+              "id": 6,
+              "name": "Hill station"
+            },
+            {
+              "id": 11,
+              "name": "Water Activities"
+            },
+            {
+              "id": 20,
+              "name": "Friends"
+            }
+          ],
+          "destinations": [
+            {
+              "id": 166,
+              "name": "Himachal"
+            }
+          ],
+          "labels": [
+            "Hill station",
+            "Adventure",
+            "Nature",
+            "Water Activities",
+            "Sightseeing",
+            "Waterfall",
+            "Budget"
+          ],
+          "family_packages": {
+            "9299": [4, 35500, 39011]
+          },
+          "city_list_with_days": {
+            "Shimla": 3,
+            "Manali": 3,
+            "Dharamshala": 1,
+            "Dalhousie": 1,
+            "Khajjiar": 1
+          },
+          "overview": "\u003Cp\u003EHere&rsquo;s a kingdom of natural elegance and cultural heritage beckoning you to amaze you with its natural beauty. Take an enchanting excursion with our \u003Cstrong\u003EHimachal trip packages from Mumbai\u003C/strong\u003E, and witness the incredible beauty of nature that will leave you in awe. Home to deep water valleys, spectacular snow-capped mountains, picturesque hills, abundant wildlife, barren beauty, and cascading waterfalls; \u003Ca href=\"../../tour-packages/himachal\"\u003EHimachal Pradesh tour\u003C/a\u003E is all about indulgence in serenity and adventure. A heaven for nature lovers, this place is a real treat to your eyes.",
+          "plp_heading": "",
+          "plp_description": "",
+          "is_bookable": false
+        },
+        {
+          "id": 9335,
+          "name": "Captivating Himachal Tour Packages From Chandigarh",
+          "days": 9,
+          "nights": 8,
+          "promo_tag": 0,
+          "mvp_tags": [],
+          "image_url": "https://img.traveltriangle.com/apac//attachments/pictures/854868/original/5.jpg",
+          "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/854868/original/5.jpg",
+          "mini_desc": "Per Person on twin sharing",
+          "price_total": 39011,
+          "currency": "Rupee",
+          "discounted_price": 35500,
+          "discount_percentage": 9,
+          "tnc": "Exact prices may vary based on availability.",
+          "cities": [
+            "Shimla",
+            "Shimla",
+            "Manali",
+            "Manali",
+            "Manali",
+            "Dharamshala",
+            "Dalhousie",
+            "Dalhousie",
+            "Shimla"
+          ],
+          "share_url": "https://traveltriangle.com/packages/8nights-9days-himachal-pradesh-exciting-voyage?id=9335",
+          "set_url": "8nights-9days-himachal-pradesh-exciting-voyage",
+          "inclusions": [
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Upto 4 Stars"
+            },
+            {
+              "key": "flights",
+              "available": false,
+              "text": "Flights"
+            },
+            {
+              "key": "meals",
+              "available": true,
+              "text": "Meals"
+            },
+            {
+              "key": "sightseeing",
+              "available": true,
+              "text": "Sightseeing"
+            },
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Stay Included"
+            },
+            {
+              "key": "transfer",
+              "available": true,
+              "text": "Transfers"
+            }
+          ],
+          "trip_types": [
+            {
+              "id": 4,
+              "name": "Family"
+            },
+            {
+              "id": 20,
+              "name": "Friends"
+            },
+            {
+              "id": 2,
+              "name": "Adventure"
+            },
+            {
+              "id": 5,
+              "name": "Nature"
+            },
+            {
+              "id": 6,
+              "name": "Hill station"
+            }
+          ],
+          "destinations": [
+            {
+              "id": 166,
+              "name": "Himachal"
+            }
+          ],
+          "labels": [
+            "Adventure",
+            "Nature",
+            "Hill station",
+            "Paragliding",
+            "Trekking",
+            "Budget"
+          ],
+          "family_packages": {
+            "9335": [4, 35500, 39011]
+          },
+          "city_list_with_days": {
+            "Shimla": 3,
+            "Manali": 3,
+            "Dharamshala": 1,
+            "Dalhousie": 2
+          },
+          "overview": "\u003Cp\u003ENest of deep water valleys, spectacular snow-capped mountains, abundant wildlife, picturesque hills, barren beauty, and cascading waterfalls; Himachal Pradesh tour is all about indulgence in serenity and adventure. Choose from our affordable \u003Cstrong\u003EHimachal tour packages from Chandigarh\u003C/strong\u003E, and grab a chance to witness the incredible beauty of nature that will leave you in awe, for sure! A haven for nature lovers, this kingdom of natural elegance and cultural heritage is beckoning you to amaze you with its natural beauty. So, take our recommendation and hop on a ride along the snow-capped mountains, temples, lakes, and hills to find complete bliss!",
+          "plp_heading": "",
+          "plp_description": "",
+          "is_bookable": false
+        },
+        {
+          "id": 20408,
+          "name": "Himachal Tour Package From Lucknow",
+          "days": 9,
+          "nights": 8,
+          "promo_tag": 0,
+          "mvp_tags": [],
+          "image_url": "https://img.traveltriangle.com/apac//attachments/pictures/854785/original/51.jpg",
+          "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/854785/original/51.jpg",
+          "mini_desc": "Per Person on twin sharing",
+          "price_total": 38587,
+          "currency": "Rupee",
+          "discounted_price": 35500,
+          "discount_percentage": 8,
+          "tnc": "Exact prices may vary based on availability.",
+          "cities": [
+            "Shimla",
+            "Shimla",
+            "Manali",
+            "Manali",
+            "Manali",
+            "Dharamshala",
+            "Dalhousie",
+            "Dalhousie",
+            "Dalhousie"
+          ],
+          "share_url": "https://traveltriangle.com/packages/himachal-tour-from-lucknow?id=20408",
+          "set_url": "himachal-tour-from-lucknow",
+          "inclusions": [
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Upto 3 Stars"
+            },
+            {
+              "key": "flights",
+              "available": false,
+              "text": "Flights"
+            },
+            {
+              "key": "meals",
+              "available": true,
+              "text": "Meals"
+            },
+            {
+              "key": "sightseeing",
+              "available": true,
+              "text": "Sightseeing"
+            },
+            {
+              "key": "transfer",
+              "available": true,
+              "text": "Transfers"
+            },
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Stay Included"
+            }
+          ],
+          "trip_types": [
+            {
+              "id": 2,
+              "name": "Adventure"
+            },
+            {
+              "id": 5,
+              "name": "Nature"
+            },
+            {
+              "id": 6,
+              "name": "Hill station"
+            }
+          ],
+          "destinations": [
+            {
+              "id": 166,
+              "name": "Himachal"
+            }
+          ],
+          "labels": [
+            "Temple",
+            "Adventure",
+            "Hiking",
+            "Nature",
+            "River Rafting",
+            "Hill station",
+            "Sightseeing",
+            "group",
+            "Budget"
+          ],
+          "family_packages": {
+            "20408": [3, 35500, 38587]
+          },
+          "city_list_with_days": {
+            "Shimla": 2,
+            "Manali": 3,
+            "Dharamshala": 1,
+            "Dalhousie": 3
+          },
+          "overview": "\u003Cp\u003EHimachal Pradesh is undoubtedly the territory of snow. A state that has and is attracting tourists all around the World to explore its picturesque beauty. A state that is famously known as &lsquo;The state of Apple&rsquo; has many tourist spots that actually give you a chance to be with nature in a way that it&rsquo;ll wrap you in its arms. Our \u003Cstrong\u003EHimachal tour packages from Lucknow\u003C/strong\u003E give you this opportunity. Be it the so-called Summer capital of Britishers Shimla, which happens to be the capital of Himachal Pradesh and the biggest city of this state too. Shimla is a place known to all. Be it the church gate, or the Library Chowk, this city very beautifully showcases how the British rule architectures, the standard of living.",
+          "plp_heading": "",
+          "plp_description": "",
+          "is_bookable": false
+        },
+        {
+          "id": 19896,
+          "name": "Mesmerizing Himachal Tour Package From Jaipur",
+          "days": 9,
+          "nights": 8,
+          "promo_tag": 0,
+          "mvp_tags": [],
+          "image_url": "https://img.traveltriangle.com/apac//attachments/pictures/884683/original/Glacial_river_tosh_687x478.jpg",
+          "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/884683/original/Glacial_river_tosh_687x478.jpg",
+          "mini_desc": "Per Person on twin sharing",
+          "price_total": 37826,
+          "currency": "Rupee",
+          "discounted_price": 34800,
+          "discount_percentage": 8,
+          "tnc": "Exact prices may vary based on availability.",
+          "cities": [
+            "Shimla",
+            "Shimla",
+            "Manali",
+            "Manali",
+            "Manali",
+            "Dharamshala",
+            "Dalhousie",
+            "Dalhousie",
+            "Dalhousie"
+          ],
+          "share_url": "https://traveltriangle.com/packages/himachal-tour-from-jaipur?id=19896",
+          "set_url": "himachal-tour-from-jaipur",
+          "inclusions": [
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Upto 3 Stars"
+            },
+            {
+              "key": "flights",
+              "available": false,
+              "text": "Flights"
+            },
+            {
+              "key": "meals",
+              "available": true,
+              "text": "Meals"
+            },
+            {
+              "key": "sightseeing",
+              "available": true,
+              "text": "Sightseeing"
+            },
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Stay Included"
+            },
+            {
+              "key": "transfer",
+              "available": true,
+              "text": "Transfers"
+            }
+          ],
+          "trip_types": [
+            {
+              "id": 2,
+              "name": "Adventure"
+            },
+            {
+              "id": 6,
+              "name": "Hill station"
+            },
+            {
+              "id": 20,
+              "name": "Friends"
+            }
+          ],
+          "destinations": [
+            {
+              "id": 166,
+              "name": "Himachal"
+            }
+          ],
+          "labels": [
+            "Sightseeing",
+            "Temples",
+            "Nature",
+            "Adventure",
+            "Hill station",
+            "Budget"
+          ],
+          "family_packages": {
+            "19896": [3, 34800, 37826]
+          },
+          "city_list_with_days": {
+            "Shimla": 2,
+            "Manali": 3,
+            "Dharamshala": 1,
+            "Dalhousie": 3
+          },
+          "overview": "\u003Cp\u003ETrips are always interesting, but the problem lies in what the place to choose that fulfils all the needs of the traveler, gives pleasure, has a lot of options to explore, make a lot of memories etc. When you are struggling for it, one thing that you can do is choose the \u003Cstrong\u003EHimachal tour package from Jaipur\u003C/strong\u003E. Himachal is the place that never fails to fulfil and be the best place in the list of tourist spots.",
+          "plp_heading": "",
+          "plp_description": "",
+          "is_bookable": false
+        },
+        {
+          "id": 6823,
+          "name": "Invigorating Himachal Tour Package",
+          "days": 8,
+          "nights": 7,
+          "promo_tag": 0,
+          "mvp_tags": [],
+          "image_url": "https://img.traveltriangle.com/apac//attachments/pictures/891015/original/Dalhousie_-Himachal-Pradesh.jpg",
+          "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/891015/original/Dalhousie_-Himachal-Pradesh.jpg",
+          "mini_desc": "Per Person on twin sharing",
+          "price_total": 36044,
+          "currency": "Rupee",
+          "discounted_price": 32800,
+          "discount_percentage": 9,
+          "tnc": "Exact prices may vary based on availability.",
+          "cities": [
+            "Shimla",
+            "Shimla",
+            "Manali",
+            "Manali",
+            "Mcleodganj",
+            "Dalhousie",
+            "Dalhousie",
+            "Dalhousie"
+          ],
+          "share_url": "https://traveltriangle.com/packages/7nights-8days-himachal-tour-invigorating?id=6823",
+          "set_url": "7nights-8days-himachal-tour-invigorating",
+          "inclusions": [
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Upto 3 Stars"
+            },
+            {
+              "key": "flights",
+              "available": false,
+              "text": "Flights"
+            },
+            {
+              "key": "meals",
+              "available": true,
+              "text": "Meals"
+            },
+            {
+              "key": "sightseeing",
+              "available": true,
+              "text": "Sightseeing"
+            },
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Stay Included"
+            },
+            {
+              "key": "transfer",
+              "available": true,
+              "text": "Transfers"
+            }
+          ],
+          "trip_types": [
+            {
+              "id": 4,
+              "name": "Family"
+            },
+            {
+              "id": 20,
+              "name": "Friends"
+            },
+            {
+              "id": 2,
+              "name": "Adventure"
+            },
+            {
+              "id": 6,
+              "name": "Hill station"
+            }
+          ],
+          "destinations": [
+            {
+              "id": 166,
+              "name": "Himachal"
+            }
+          ],
+          "labels": [
+            "Sightseeing",
+            "Adventure",
+            "Temple",
+            "Hill station",
+            "Churches",
+            "Nature",
+            "Local market",
+            "VALLEY",
+            "skiing",
+            "Budget"
+          ],
+          "family_packages": {
+            "6823": [3, 32800, 36044]
+          },
+          "city_list_with_days": {
+            "Shimla": 2,
+            "Manali": 2,
+            "Mcleodganj": 1,
+            "Dalhousie": 3
+          },
+          "overview": "\u003Cp\u003ELying in the Indian Himalayan region, Himachal Pradesh is a mountainous state with a rich biodiversity. Known for its Indo-Tibetan culture, Himachal beckons thousands of tourists throughout the year. The natural terrain and utopian weather are the main crowd-pullers for the destination. With this \u003Cstrong\u003E7 nights 8 days Himachal holiday package,\u003C/strong\u003E witness the best of Indian hill stations while indulging in various recreational activities.",
+          "plp_heading": "",
+          "plp_description": "",
+          "is_bookable": false
+        },
+        {
+          "id": 15044,
+          "name": "Himachal Tour Package For 2 Nights 3 Days",
+          "days": 3,
+          "nights": 2,
+          "promo_tag": 0,
+          "mvp_tags": [],
+          "image_url": "https://img.traveltriangle.com/apac//attachments/pictures/891727/original/Para-Gliding-adventure-at-beautiful-valley-of-Khajjiar-near-Dalhousie-and-Kalapathar_-Himachal-Pradesh_-India.-Himalayan-Mountains-in-the-background..jpg",
+          "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/891727/original/Para-Gliding-adventure-at-beautiful-valley-of-Khajjiar-near-Dalhousie-and-Kalapathar_-Himachal-Pradesh_-India.-Himalayan-Mountains-in-the-background..jpg",
+          "mini_desc": "Per Person on twin sharing",
+          "price_total": 10215,
+          "currency": "Rupee",
+          "discounted_price": 9500,
+          "discount_percentage": 7,
+          "tnc": "Exact prices may vary based on availability.",
+          "cities": [
+            "Shimla",
+            "Shimla",
+            "Shimla"
+          ],
+          "share_url": "https://traveltriangle.com/packages/2n-3d-himachal-tour?id=15044",
+          "set_url": "2n-3d-himachal-tour",
+          "inclusions": [
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Upto 3 Stars"
+            },
+            {
+              "key": "flights",
+              "available": false,
+              "text": "Flights"
+            },
+            {
+              "key": "meals",
+              "available": true,
+              "text": "Meals"
+            },
+            {
+              "key": "sightseeing",
+              "available": true,
+              "text": "Sightseeing"
+            },
+            {
+              "key": "transfer",
+              "available": true,
+              "text": "Transfers"
+            },
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Stay Included"
+            }
+          ],
+          "trip_types": [
+            {
+              "id": 2,
+              "name": "Adventure"
+            },
+            {
+              "id": 5,
+              "name": "Nature"
+            },
+            {
+              "id": 6,
+              "name": "Hill station"
+            }
+          ],
+          "destinations": [
+            {
+              "id": 166,
+              "name": "Himachal"
+            }
+          ],
+          "labels": [
+            "Mountains ",
+            "Adventure",
+            "Watersports",
+            "Nature",
+            "Snow View Point",
+            "Hill station",
+            "landscape",
+            "Paragliding",
+            "Trekking",
+            "group",
+            "Budget"
+          ],
+          "family_packages": {
+            "15044": [3, 9500, 10215]
+          },
+          "city_list_with_days": {
+            "Shimla": 3
+          },
+          "overview": "\u003Cp\u003EHimachal Pradesh is a god gifted paradise for many tourists from all over the globe. It is one of the most popular travel destinations in India, and with this \u003Cstrong\u003E3 days trip to Himachal\u003C/strong\u003E you can explore it all. The place is situated on the Northern Part of the country. It is known as the &ldquo;Land of the Gods&rdquo; because of the natural beauty which inspires the visitors widely. The entire state is covered with scenic landscapes, trekking routes, orchards, water springs, snow-capped mountains and hills, and it is a perfect for skiing. More than thousands of people visit here to enjoy the charismatic beauty of Himachal Pradesh, with this \u003Cstrong\u003E3 days trip to Himachal\u003C/strong\u003E. You can enjoy several optional activities like mountaineering, river rafting, ice skating, paragliding, skiing, and golf.",
+          "plp_heading": "",
+          "plp_description": "",
+          "is_bookable": false
+        },
+        {
+          "id": 9288,
+          "name": "Sensational Himachal Tour Package From Chennai",
+          "days": 9,
+          "nights": 8,
+          "promo_tag": 0,
+          "mvp_tags": [],
+          "image_url": "https://img.traveltriangle.com/apac//attachments/pictures/884647/original/shutterstock_744726640_687x478.jpg",
+          "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/884647/original/shutterstock_744726640_687x478.jpg",
+          "mini_desc": "Per Person on twin sharing",
+          "price_total": 42308,
+          "currency": "Rupee",
+          "discounted_price": 38500,
+          "discount_percentage": 9,
+          "tnc": "Exact prices may vary based on availability.",
+          "cities": [
+            "Shimla",
+            "Shimla",
+            "Manali",
+            "Manali",
+            "Manali",
+            "Dharamshala",
+            "Dharamshala",
+            "Dalhousie",
+            "Dalhousie"
+          ],
+          "share_url": "https://traveltriangle.com/packages/8nights-9days-himachal-tour-sensational?id=9288",
+          "set_url": "8nights-9days-himachal-tour-sensational",
+          "inclusions": [
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Upto 4 Stars"
+            },
+            {
+              "key": "flights",
+              "available": false,
+              "text": "Flights"
+            },
+            {
+              "key": "meals",
+              "available": true,
+              "text": "Meals"
+            },
+            {
+              "key": "sightseeing",
+              "available": true,
+              "text": "Sightseeing"
+            },
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Stay Included"
+            },
+            {
+              "key": "transfer",
+              "available": true,
+              "text": "Transfers"
+            }
+          ],
+          "trip_types": [
+            {
+              "id": 2,
+              "name": "Adventure"
+            },
+            {
+              "id": 4,
+              "name": "Family"
+            },
+            {
+              "id": 6,
+              "name": "Hill station"
+            },
+            {
+              "id": 5,
+              "name": "Nature"
+            },
+            {
+              "id": 11,
+              "name": "Water Activities"
+            },
+            {
+              "id": 7,
+              "name": "Religious"
+            },
+            {
+              "id": 20,
+              "name": "Friends"
+            }
+          ],
+          "destinations": [
+            {
+              "id": 166,
+              "name": "Himachal"
+            }
+          ],
+          "labels": [
+            "Kufri",
+            "Water Activities",
+            "Solang Valley",
+            "Adventure",
+            "Khajjiar Trip",
+            "Hill station",
+            "Nature",
+            "Religious",
+            "Historical",
+            "Sightseeing",
+            "Budget"
+          ],
+          "family_packages": {
+            "9288": [4, 38500, 42308]
+          },
+          "city_list_with_days": {
+            "Shimla": 2,
+            "Manali": 3,
+            "Dharamshala": 2,
+            "Dalhousie": 2
+          },
+          "overview": "\u003Cp\u003EHimachal Pradesh is a North Indian state which is a home to magnificent mountains, quaint hill towns, rich history and culture, lush green forests and everything you need to make your vacation a memorable one. Marvel at places like Shimla, Manali, Dalhousie, Dharamshala and many more as per this package. From water adventure activities to trekking and hiking, from small tranquil villages to high spirited streets, from temples to museums, Himachal Pradesh has all the reasons to be known as one of the most desired tourist destinations visited by all kinds of vacationers throughout the year. On this note, make haste and embark on an exciting holiday with our generously dotted \u003Cstrong\u003E8 nights 9 days Himachal tour packages from Chennai.\u003C/strong\u003E",
+          "plp_heading": "",
+          "plp_description": "",
+          "is_bookable": false
+        },
+        {
+          "id": 15055,
+          "name": "Himachal Tour Package For 6 Nights 7 Days",
+          "days": 7,
+          "nights": 6,
+          "promo_tag": 0,
+          "mvp_tags": [],
+          "image_url": "https://img.traveltriangle.com/apac//attachments/pictures/891821/original/rohtang-pass-LINK-1.jpg",
+          "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/891821/original/rohtang-pass-LINK-1.jpg",
+          "mini_desc": "Per Person on twin sharing",
+          "price_total": 33871,
+          "currency": "Rupee",
+          "discounted_price": 31500,
+          "discount_percentage": 7,
+          "tnc": "Exact prices may vary based on availability.",
+          "cities": [
+            "Manali",
+            "Manali",
+            "Manali",
+            "Manali",
+            "Shimla",
+            "Shimla",
+            "Shimla"
+          ],
+          "share_url": "https://traveltriangle.com/packages/himachal-6n-7d-tour?id=15055",
+          "set_url": "himachal-6n-7d-tour",
+          "inclusions": [
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Upto 4 Stars"
+            },
+            {
+              "key": "flights",
+              "available": false,
+              "text": "Flights"
+            },
+            {
+              "key": "meals",
+              "available": true,
+              "text": "Meals"
+            },
+            {
+              "key": "sightseeing",
+              "available": true,
+              "text": "Sightseeing"
+            },
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Stay Included"
+            },
+            {
+              "key": "transfer",
+              "available": true,
+              "text": "Transfers"
+            }
+          ],
+          "trip_types": [
+            {
+              "id": 5,
+              "name": "Nature"
+            },
+            {
+              "id": 2,
+              "name": "Adventure"
+            },
+            {
+              "id": 20,
+              "name": "Friends"
+            }
+          ],
+          "destinations": [
+            {
+              "id": 166,
+              "name": "Himachal"
+            }
+          ],
+          "labels": [
+            "Adventure Activities",
+            "Nature",
+            "Mountains ",
+            "Adventure",
+            "Valleys",
+            "shopping",
+            "Hiking",
+            "Religious",
+            "Budget"
+          ],
+          "family_packages": {
+            "15055": [4, 31500, 33871]
+          },
+          "city_list_with_days": {
+            "Manali": 4,
+            "Shimla": 3
+          },
+          "overview": "\u003Cp\u003EOne of the most attractive states in India, Himachal Pradesh is known as the &ldquo;Heart of India&rdquo;. The picturesque and charming state comprises of many natural hill stations, lakes, mountains, flaking snow, astounding temples, which will make your tour worth remembering. The \u003Cstrong\u003EHimachal itinerary for 7 days\u003C/strong\u003E not only has mesmerizing beauty of the entire place but the adventurous activities are widely popular here like mountaineering, fishing, hiking, trekking, and angling.",
+          "plp_heading": "",
+          "plp_description": "",
+          "is_bookable": false
+        },
+        {
+          "id": 21718,
+          "name": "Himachal Tour Package By Volvo Bus From Delhi",
+          "days": 9,
+          "nights": 8,
+          "promo_tag": 0,
+          "mvp_tags": [],
+          "image_url": "https://img.traveltriangle.com/apac//attachments/pictures/883966/original/waterfall_in_Parvati_valley.jpg",
+          "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/883966/original/waterfall_in_Parvati_valley.jpg",
+          "mini_desc": "Per Person on twin sharing",
+          "price_total": 38587,
+          "currency": "Rupee",
+          "discounted_price": 35500,
+          "discount_percentage": 8,
+          "tnc": "Exact prices may vary based on availability.",
+          "cities": [
+            "Shimla",
+            "Shimla",
+            "Manali",
+            "Manali",
+            "Manali",
+            "Dharamshala",
+            "Dalhousie",
+            "Dalhousie",
+            "Dalhousie"
+          ],
+          "share_url": "https://traveltriangle.com/packages/himachal-tour-by-volvo-bus-from-delhi?id=21718",
+          "set_url": "himachal-tour-by-volvo-bus-from-delhi",
+          "inclusions": [
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Upto 3 Stars"
+            },
+            {
+              "key": "flights",
+              "available": false,
+              "text": "Flights"
+            },
+            {
+              "key": "meals",
+              "available": true,
+              "text": "Meals"
+            },
+            {
+              "key": "sightseeing",
+              "available": true,
+              "text": "Sightseeing"
+            },
+            {
+              "key": "transfer",
+              "available": true,
+              "text": "Transfers"
+            },
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Stay Included"
+            }
+          ],
+          "trip_types": [
+            {
+              "id": 1,
+              "name": "Romantic"
+            },
+            {
+              "id": 4,
+              "name": "Family"
+            },
+            {
+              "id": 20,
+              "name": "Friends"
+            }
+          ],
+          "destinations": [
+            {
+              "id": 166,
+              "name": "Himachal"
+            }
+          ],
+          "labels": [
+            "Nature",
+            "Hill station",
+            "Adventure",
+            "Budget"
+          ],
+          "family_packages": {
+            "21718": [3, 35500, 38587]
+          },
+          "city_list_with_days": {
+            "Shimla": 2,
+            "Manali": 3,
+            "Dharamshala": 1,
+            "Dalhousie": 3
+          },
+          "overview": "\u003Cp\u003EIf the majestic mountains and lush green valleys of Himachal is your next holiday destination then we at TravelTriangle have the best \u003Cstrong\u003EHimachal tour packages from Delhi by Volvo.\u003C/strong\u003E These packages are well designed to include the best of what Himachal has to offer for every kind of traveler. Himachal with its beautiful resort towns, enchanting hamlets, quaint villages, lush green meadows, glistening snowpeaks and loaded with adventure. Himachal and all that it has to offer attracts tourists all year round. Our customizable \u003Cstrong\u003EHimachal tour packages from Delhi by Volvo\u003C/strong\u003E include some of the most fascinating destinations in the state. The tour starts from a pick up from Delhi and a road trip to Shimla by Volvo Bus. You can enjoy the scenic views as we travel. On the way we stop to admire the famous Pinjore Gardens and Timber Trail.",
+          "plp_heading": "",
+          "plp_description": "",
+          "is_bookable": false
+        },
+        {
+          "id": 15053,
+          "name": "Himachal Tour Package For 4 Nights 5 Days",
+          "days": 5,
+          "nights": 4,
+          "promo_tag": 0,
+          "mvp_tags": [],
+          "image_url": "https://img.traveltriangle.com/apac//attachments/pictures/854827/original/34.jpg",
+          "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/854827/original/34.jpg",
+          "mini_desc": "Per Person on twin sharing",
+          "price_total": 22283,
+          "currency": "Rupee",
+          "discounted_price": 20500,
+          "discount_percentage": 8,
+          "tnc": "Exact prices may vary based on availability.",
+          "cities": [
+            "Manali",
+            "Manali",
+            "Manali",
+            "Manali",
+            "Manali"
+          ],
+          "share_url": "https://traveltriangle.com/packages/4n-5d-himachal-tour?id=15053",
+          "set_url": "4n-5d-himachal-tour",
+          "inclusions": [
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Upto 3 Stars"
+            },
+            {
+              "key": "flights",
+              "available": false,
+              "text": "Flights"
+            },
+            {
+              "key": "meals",
+              "available": true,
+              "text": "Meals"
+            },
+            {
+              "key": "sightseeing",
+              "available": true,
+              "text": "Sightseeing"
+            },
+            {
+              "key": "transfer",
+              "available": true,
+              "text": "Transfers"
+            },
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Stay Included"
+            }
+          ],
+          "trip_types": [
+            {
+              "id": 2,
+              "name": "Adventure"
+            },
+            {
+              "id": 6,
+              "name": "Hill station"
+            },
+            {
+              "id": 20,
+              "name": "Friends"
+            }
+          ],
+          "destinations": [
+            {
+              "id": 166,
+              "name": "Himachal"
+            }
+          ],
+          "labels": [
+            "Watersports",
+            "Adventure",
+            "Mountains ",
+            "Hill station",
+            "Hills",
+            "VALLEY",
+            "Budget"
+          ],
+          "family_packages": {
+            "15053": [3, 20500, 22283]
+          },
+          "city_list_with_days": {
+            "Manali": 5
+          },
+          "overview": "\u003Cp\u003EHimachal Pradesh is a popular state of India which is covered with many bewitching travel destinations. Most of the people come here to experience the trekking and hiking at Himalayas and other high mountain peaks. The place is well connected with the nearby cities. It is the best place for the visitors to spend the summer vacations only because of the chilled weather. There are many wonderful things that one can do here. You can take the renting motorcycle to explore many new places on your own.",
+          "plp_heading": "",
+          "plp_description": "",
+          "is_bookable": false
+        },
+        {
+          "id": 15313,
+          "name": "Himachal Tour Package For 9 Nights 10 Days ",
+          "days": 10,
+          "nights": 9,
+          "promo_tag": 0,
+          "mvp_tags": [],
+          "image_url": "https://img.traveltriangle.com/apac//attachments/pictures/893296/original/Night-view-of-Shimla.jpg",
+          "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/893296/original/Night-view-of-Shimla.jpg",
+          "mini_desc": "Per Person on twin sharing",
+          "price_total": 49457,
+          "currency": "Rupee",
+          "discounted_price": 45500,
+          "discount_percentage": 8,
+          "tnc": "Exact prices may vary based on availability.",
+          "cities": [
+            "Shimla",
+            "Shimla",
+            "Manali",
+            "Manali",
+            "Dharamshala",
+            "Dalhousie",
+            "Dalhousie",
+            "Amritsar",
+            "New Delhi",
+            "New Delhi"
+          ],
+          "share_url": "https://traveltriangle.com/packages/9n-10d-himachal-tour?id=15313",
+          "set_url": "9n-10d-himachal-tour",
+          "inclusions": [
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Upto 4 Stars"
+            },
+            {
+              "key": "flights",
+              "available": false,
+              "text": "Flights"
+            },
+            {
+              "key": "meals",
+              "available": true,
+              "text": "Meals"
+            },
+            {
+              "key": "sightseeing",
+              "available": true,
+              "text": "Sightseeing"
+            },
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Stay Included"
+            },
+            {
+              "key": "transfer",
+              "available": true,
+              "text": "Transfers"
+            }
+          ],
+          "trip_types": [
+            {
+              "id": 2,
+              "name": "Adventure"
+            },
+            {
+              "id": 5,
+              "name": "Nature"
+            },
+            {
+              "id": 6,
+              "name": "Hill station"
+            }
+          ],
+          "destinations": [
+            {
+              "id": 166,
+              "name": "Himachal"
+            },
+            {
+              "id": 173,
+              "name": "Punjab"
+            },
+            {
+              "id": 187,
+              "name": "Delhi"
+            }
+          ],
+          "labels": [
+            "Hill Station",
+            "Adventure",
+            "Mountains ",
+            "Nature",
+            "Solang Valley",
+            "Rohtang Pass",
+            "Camping",
+            "group",
+            "Budget"
+          ],
+          "family_packages": {
+            "15313": [4, 45500, 49457]
+          },
+          "city_list_with_days": {
+            "Shimla": 2,
+            "Manali": 2,
+            "Dharamshala": 1,
+            "Dalhousie": 2,
+            "Amritsar": 1,
+            "New Delhi": 2
+          },
+          "overview": "\u003Cp\u003EIf you are looking for the ideal family vacation or a tour with friends, look no further than our 10 days Himachal tour. The Himachal itinerary for 10 days provides an extensive tour of Himachal Pradesh, Amritsar and Delhi. This 10 day Himachal tour ensures you can have a vacation within your budget.",
+          "plp_heading": "",
+          "plp_description": "",
+          "is_bookable": false
+        },
+        {
+          "id": 9304,
+          "name": "Breathtaking Manali Tour Package From Mumbai",
+          "days": 4,
+          "nights": 3,
+          "promo_tag": 0,
+          "mvp_tags": [],
+          "image_url": "https://img.traveltriangle.com/apac//attachments/pictures/891821/original/rohtang-pass-LINK-1.jpg",
+          "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/891821/original/rohtang-pass-LINK-1.jpg",
+          "mini_desc": "Per Person on twin sharing",
+          "price_total": 12637,
+          "currency": "Rupee",
+          "discounted_price": 11500,
+          "discount_percentage": 9,
+          "tnc": "Exact prices may vary based on availability.",
+          "cities": [
+            "Manali",
+            "Manali",
+            "Manali",
+            "Manali"
+          ],
+          "share_url": "https://traveltriangle.com/packages/3nights-4days-manali-kullu-tour?id=9304",
+          "set_url": "3nights-4days-manali-kullu-tour",
+          "inclusions": [
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Upto 3 Stars"
+            },
+            {
+              "key": "flights",
+              "available": false,
+              "text": "Flights"
+            },
+            {
+              "key": "meals",
+              "available": true,
+              "text": "Meals"
+            },
+            {
+              "key": "sightseeing",
+              "available": true,
+              "text": "Sightseeing"
+            },
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Stay Included"
+            },
+            {
+              "key": "transfer",
+              "available": true,
+              "text": "Transfers"
+            }
+          ],
+          "trip_types": [
+            {
+              "id": 20,
+              "name": "Friends"
+            },
+            {
+              "id": 2,
+              "name": "Adventure"
+            },
+            {
+              "id": 5,
+              "name": "Nature"
+            },
+            {
+              "id": 6,
+              "name": "Hill station"
+            }
+          ],
+          "destinations": [
+            {
+              "id": 166,
+              "name": "Himachal"
+            }
+          ],
+          "labels": [
+            "Manali",
+            "Adventure",
+            "Solang Valley",
+            "Nature",
+            "Rohtang Pass",
+            "Hill station",
+            "Religious",
+            "Sightseeing",
+            "Budget"
+          ],
+          "family_packages": {
+            "9304": [3, 11500, 12637]
+          },
+          "city_list_with_days": {
+            "Manali": 4
+          },
+          "overview": "\u003Cp\u003EManali is one of the most desired holiday destinations among Indians as well ass outsiders. Nestled in the snow covered slopes of the Dhauladhar Range, the hill town of Manali draws tourists who enjoy the tranquility that prevails here. Surrounded with jaw dropping views, lush green forests, important and significant sights, Manali is undoubtedly one of the most enjoyed and cherished holiday destinations in the country. However, it is not easy to tour the whole of Manali on one vacation. Which is why you can consider booking any of the \u003Cstrong\u003E3 nights 4 days Manali tour packages from Mumbai\u003C/strong\u003E and all other major cities as well.",
+          "plp_heading": "",
+          "plp_description": "",
+          "is_bookable": false
+        },
+        {
+          "id": 7972,
+          "name": "Summer Special Manali Honeymoon: A Superb Romantic Trip",
+          "days": 5,
+          "nights": 4,
+          "promo_tag": 1,
+          "mvp_tags": [],
+          "image_url": "https://img.traveltriangle.com/apac//attachments/pictures/891943/original/Parvati-valley-LINK-2.jpg",
+          "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/891943/original/Parvati-valley-LINK-2.jpg",
+          "mini_desc": "Per Person on twin sharing",
+          "price_total": 17033,
+          "currency": "Rupee",
+          "discounted_price": 15500,
+          "discount_percentage": 9,
+          "tnc": "Exact prices may vary based on availability.",
+          "cities": [
+            "Manali",
+            "Manali",
+            "Manali",
+            "Manali",
+            "Manali"
+          ],
+          "share_url": "https://traveltriangle.com/packages/4nights-5days-manali-honeymoon-enjoyable?id=7972",
+          "set_url": "4nights-5days-manali-honeymoon-enjoyable",
+          "inclusions": [
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Upto 3 Stars"
+            },
+            {
+              "key": "flights",
+              "available": false,
+              "text": "Flights"
+            },
+            {
+              "key": "meals",
+              "available": true,
+              "text": "Meals"
+            },
+            {
+              "key": "sightseeing",
+              "available": true,
+              "text": "Sightseeing"
+            },
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Stay Included"
+            },
+            {
+              "key": "transfer",
+              "available": true,
+              "text": "Transfers"
+            }
+          ],
+          "trip_types": [
+            {
+              "id": 2,
+              "name": "Adventure"
+            },
+            {
+              "id": 5,
+              "name": "Nature"
+            },
+            {
+              "id": 6,
+              "name": "Hill station"
+            },
+            {
+              "id": 18,
+              "name": "Best sellers"
+            }
+          ],
+          "destinations": [
+            {
+              "id": 166,
+              "name": "Himachal"
+            },
+            {
+              "id": 341,
+              "name": "Manali"
+            }
+          ],
+          "labels": [
+            "Hill station",
+            "Best sellers",
+            "Adventure",
+            "Nature",
+            "Sightseeing",
+            "Romantic",
+            "Budget"
+          ],
+          "family_packages": {
+            "7972": [3, 15500, 17033]
+          },
+          "city_list_with_days": {
+            "Manali": 5
+          },
+          "overview": "\u003Cp\u003EAfter tying the knot, every couple wants to spend a romantic holiday to discover some special moments and this holiday is known as &lsquo;honeymoon&rsquo;. For that reason, the honeymoon should be somewhat different in all respects. The first work is to choose a great place for this romantic tour. Many places will come to your mind but Manali is an evergreen location that is perfect for every honeymooner.",
+          "plp_heading": "",
+          "plp_description": "",
+          "is_bookable": false
+        },
+        {
+          "id": 9307,
+          "name": "Mesmerising Manali Trip Package From Chandigarh",
+          "days": 3,
+          "nights": 2,
+          "promo_tag": 0,
+          "mvp_tags": [],
+          "image_url": "https://img.traveltriangle.com/apac//attachments/pictures/891822/original/Old-manali-LINK-1.jpg",
+          "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/891822/original/Old-manali-LINK-1.jpg",
+          "mini_desc": "Per Person on twin sharing",
+          "price_total": 10440,
+          "currency": "Rupee",
+          "discounted_price": 9500,
+          "discount_percentage": 9,
+          "tnc": "Exact prices may vary based on availability.",
+          "cities": [
+            "Manali",
+            "Manali",
+            "Manali"
+          ],
+          "share_url": "https://traveltriangle.com/packages/2nights-3days-manali-tour-exhilarating?id=9307",
+          "set_url": "2nights-3days-manali-tour-exhilarating",
+          "inclusions": [
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Upto 3 Stars"
+            },
+            {
+              "key": "flights",
+              "available": false,
+              "text": "Flights"
+            },
+            {
+              "key": "meals",
+              "available": true,
+              "text": "Meals"
+            },
+            {
+              "key": "sightseeing",
+              "available": true,
+              "text": "Sightseeing"
+            },
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Stay Included"
+            },
+            {
+              "key": "transfer",
+              "available": true,
+              "text": "Transfers"
+            }
+          ],
+          "trip_types": [
+            {
+              "id": 4,
+              "name": "Family"
+            },
+            {
+              "id": 20,
+              "name": "Friends"
+            },
+            {
+              "id": 2,
+              "name": "Adventure"
+            },
+            {
+              "id": 5,
+              "name": "Nature"
+            },
+            {
+              "id": 6,
+              "name": "Hill station"
+            }
+          ],
+          "destinations": [
+            {
+              "id": 166,
+              "name": "Himachal"
+            }
+          ],
+          "labels": [
+            "Hadimba Temple",
+            "Adventure",
+            "Solang Valley",
+            "Nature",
+            "Rohtang Pass",
+            "Hill station",
+            "Religious",
+            "Water Activities",
+            "Budget"
+          ],
+          "family_packages": {
+            "9307": [3, 9500, 10440]
+          },
+          "city_list_with_days": {
+            "Manali": 3
+          },
+          "overview": "\u003Cp\u003EManali is one of the most visited hill stations in the North Indian state of Himachal Pradesh, and an ideal destination for all types of tourists. Mostly visited by honeymooners and adventure enthusiasts, Manali pampers its visitors with exceptional views of magnificent mountains, luscious pine and cedar forests and views of gorgeous meadows with far reaching carpets of flowers. Booking a \u003Cstrong\u003EManali tour package from Chandigarh\u003C/strong\u003E and other nearby major cities, beforehand would surely save your time and let you enjoy a hassle free vacation.",
+          "plp_heading": "",
+          "plp_description": "",
+          "is_bookable": false
+        },
+        {
+          "id": 2521,
+          "name": "Spiti Tour Package For Adventure Lovers",
+          "days": 7,
+          "nights": 6,
+          "promo_tag": 0,
+          "mvp_tags": [],
+          "image_url": "https://img.traveltriangle.com/apac//attachments/pictures/870887/original/Buddhist_monastery_in_Kaza.jpg",
+          "imagekit_url": "https://img.traveltriangle.com/apac/attachments/pictures/870887/original/Buddhist_monastery_in_Kaza.jpg",
+          "mini_desc": "Per Person on twin sharing",
+          "price_total": 33889,
+          "currency": "Rupee",
+          "discounted_price": 30500,
+          "discount_percentage": 10,
+          "tnc": "Exact prices may vary based on availability.",
+          "cities": [
+            "Manali",
+            "Kaza",
+            "Kaza",
+            "Kaza",
+            "Chandra Tal",
+            "Manali",
+            "Manali"
+          ],
+          "share_url": "https://traveltriangle.com/packages/6nights-7days-spiti-tour-for-adventure?id=2521",
+          "set_url": "6nights-7days-spiti-tour-for-adventure",
+          "inclusions": [
+            {
+              "key": "hotel",
+              "available": true,
+              "text": "Upto 3 Stars"
+            },
+            {
+              "key": "flights",
+              "available": false,
+              "text": "Flights"
+            },
+            {
+              "key": "meals",
+              "available": true,
+              "text": "Meals"
+            },
+            {
+              "key": "sightseeing",
+              "available": false,
+              "text": "Sightseeing"
+            },
+            {
+              "key": "cab",
+              "available": true,
+              "text": "Private Cab"
+            }
+          ],
+          "trip_types": [
+            {
+              "id": 5,
+              "name": "Nature"
+            },
+            {
+              "id": 2,
+              "name": "Adventure"
+            },
+            {
+              "id": 6,
+              "name": "Hill station"
+            },
+            {
+              "id": 19,
+              "name": "Historical"
+            }
+          ],
+          "destinations": [
+            {
+              "id": 166,
+              "name": "Himachal"
+            },
+            {
+              "id": 751,
+              "name": "Spiti"
+            }
+          ],
+          "labels": [
+            "Chandratal",
+            "Nature",
+            "Dhangkar Monastery",
+            "Historical",
+            "Rohtang Pass",
+            "Adventure",
+            "Sakya Tangyud Monastery",
+            "Hill station",
+            "Kunzum Pass",
+            "Sightseeing",
+            "Camping",
+            "Budget"
+          ],
+          "family_packages": {
+            "2521": [3, 30500, 33889]
+          },
+          "city_list_with_days": {
+            "Manali": 3,
+            "Kaza": 3,
+            "Chandra Tal": 1
+          },
+          "overview": "\u003Cp\u003EIf you are looking forward to book a \u003Cstrong\u003E6 nights 7 days Spiti tour package\u003C/strong\u003E, an unforgettable trip to Himachal Pradesh invites you. Whether you are visiting this exotic state with your partner, friends, or family, this \u003Cstrong\u003Eadventure tour to Spiti\u003C/strong\u003E is sure to impart you a memorable vacation. The best \u003Cstrong\u003E6 days Spiti itinerary\u003C/strong\u003E assures you of smooth transfers, cozy accommodations, delicious meals, and remarkable sightseeing.",
+          "plp_heading": "",
+          "plp_description": "",
+          "is_bookable": false
+        }
+      ]
+    
+    }
+    
+  }
