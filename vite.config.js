@@ -3,5 +3,7 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  noExternal: ['bootstrap']
+  server: {
+    allowedHosts: ['ssr-package.onrender.com']
+  }
 });
